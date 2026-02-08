@@ -16,6 +16,9 @@ Ort: [[Phandalin]]
 - City Tax (5 GP pro 10 Tage)
 - Brewery Tax (2 GP pro 10 Tage)
 - Guild Tax (2 GP pro 10 Tage)
+- Barracks (30 GP pro 10 Tage)
+
+Ausgaben: 104 GP pro 10 Tage
 
 ## Ausbaustufen
 - City Permits and Guild Licenses
@@ -29,7 +32,12 @@ Ort: [[Phandalin]]
 - Guest Rooms (6 rooms)
 - Cobbled Street
 - Vault (Basic)
-+43 Valuation
+- Security Enhancments
+- Barracks
+- Stable (cheap)
+- Elch Fütterung +10
+- Magical Security System
++55 Valuation
 
 Einnahmen: 90 GP pro 10 Tage
 
@@ -63,7 +71,7 @@ TAVERNE – MECHANISCHE GESAMTÜBERSICHT
 ────────────────────────────────  
   
 GRUNDDATEN  
-Valuation: 42  
+Valuation: 55  
 Condition: Aristocratic  
 Gewinn-Multiplikator: ×12  
 Verlust-Multiplikator: ×4  
@@ -79,9 +87,12 @@ Guest Rooms (6 Räume, Aristocratic):
   
 Brewery (Quality, passiver Effekt):  
 +30 gp pro Tenday  
+
+Goldener Elch füttern (5 gp / im Schnitt einer pro Tag -> 50 gp pro Tenday)
++50 gp pro Tenday
   
 Summe fixe Einnahmen:  
-+90 gp pro Tenday  
++140 gp pro Tenday  
   
 ────────────────────────────────  
   
@@ -102,9 +113,10 @@ City Services: 5 gp
 Guild Memberships (Innkeepers + Brewers): 4 gp  
 Basic Tavern Insurance: 10 gp  
 Enhanced Tavern Insurance: 20 gp  
-  
+Barracks: 30 gp
+
 Summe laufende Kosten:  
-74 gp pro Tenday  
+104 gp pro Tenday  
   
 ────────────────────────────────  
   

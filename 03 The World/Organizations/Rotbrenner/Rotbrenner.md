@@ -10,7 +10,7 @@ tags:
 Söldnertruppe
 
 **Headquarters**
-Ansässig in der [[Tresendar Manor]] in [[Phandalin]]
+Ansässig in der [[Tresendar Manor - Gasthaus zum goldenen Elch]] in [[Phandalin]]
 Lokaler Einfluss
 
 **Goals & Motivations**
