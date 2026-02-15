@@ -1,0 +1,6 @@
+---
+tags:
+  - npc
+aliases:
+  - Tharivol
+---

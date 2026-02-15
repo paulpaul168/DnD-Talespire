@@ -5,3 +5,4 @@ tags:
 aliases:
   - Evermoors
 ---
+Liegt süd-westlich von [[Silverymoon]]
