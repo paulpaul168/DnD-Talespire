@@ -28,7 +28,7 @@
 			<name>Ander Thorngage</name>
 			<gender>Male</gender>
 			<player-name>Johannes Blab</player-name>
-			<experience>50067</experience>
+			<experience>51147</experience>
 			<attacks>
 				<description><![CDATA[]]></description>
 				<attack identifier="69db4fc0-d7c5-494d-9634-42be79963bac" name="Longsword +1" range="5 ft" attack="+9 vs AC" damage="1d8+5 slashing" displayed="true" ability="Strength">
@@ -65,17 +65,19 @@ You might also have ties to a specific temple dedicated to your chosen deity or 
 				<allies><![CDATA[]]></allies>
 			</organization>
 			<additional-features><![CDATA[Gottheit: 	Catgirl
-Titel: 		Treant-Schlächter]]></additional-features>
+Titel: 		Treant-Schlächter
+
+Sprache Giant lernen: 45/125]]></additional-features>
 			<currency>
 				<copper>9</copper>
-				<silver>2</silver>
+				<silver>1</silver>
 				<electrum>0</electrum>
-				<gold>200</gold>
+				<gold>148</gold>
 				<platinum>0</platinum>
 				<equipment><![CDATA[]]></equipment>
 				<treasure><![CDATA[Mineneinnahmen: 300 - 1500 Gold/Monat
 
-Figur im Haus (Langschwert, Tongefäß, Goblinohr, Goblinfinger, Hobgoblinzeh, Hobgoblinohr, 6Eulenbärenfedern, Wolfsschwanz, 2 Wolfspelze, 5 Bieberpelze, Langbogen, Wolfszahnkette, Grüner Umhang(Boss Klarg), Pferdehaar, 2 grünes Glas (Aussehen wie ein Smaragd))
+Figur im Haus (Langschwert, Tongefäß, Goblinohr, Goblinfinger, Hobgoblinzeh, Hobgoblinohr, 6Eulenbärenfedern, Wolfsschwanz, 2 Wolfspelze, 5 Bieberpelze, Langbogen, Wolfszahnkette, Grüner Umhang(Boss Klarg), Pferdehaar, 2 grünes Glas (Aussehen wie ein Smaragd), Riesenauge, Trophäenkette mit abgeschnittenen Ohren, 2 Kinderschuhe)
 Gerät im Haus (1 Feilenmaschine)
 
 Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Verbündete
@@ -117,11 +119,7 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 1 Druidenkräuter (Abwehr von Albträumen/frostbasierten Effekten (einmal +2 auf einen Rettungswurf gegen Kältezauber/Schlafmagie)
 1 Zwergenmuttropfen (Vorteil auf Kon-saves für 8Stunden)
 2 starker Kräuterschnaps
-1 Cloak of Billowing (weht dramatisch)
-
-1 Riesenauge
-1 Trophäenkette mit abgeschnittenen Ohren
-2 Kinderschuh]]></treasure>
+1 Cloak of Billowing (weht dramatisch)]]></treasure>
 			</currency>
 			<notes>
 				<note column="left">
@@ -149,7 +147,7 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 			<wisdom>12</wisdom>
 			<charisma>14</charisma>
 		</abilities>
-		<elements level-count="9" registered-count="48">
+		<elements level-count="9" registered-count="49">
 			<element type="Option" name="Feats" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" name="Multiclassing" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING">
 				<element type="Grants" name="Multiclass Spellcasting" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
@@ -450,7 +448,7 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 					</notes>
 				</details>
 			</item>
-			<item identifier="756dabfa-96d4-4ba9-88b6-fff0062e38ca" name="Rations (1 day)" id="ID_WOTC_PHB_ITEM_RATIONS_1DAY" amount="24">
+			<item identifier="756dabfa-96d4-4ba9-88b6-fff0062e38ca" name="Rations (1 day)" id="ID_WOTC_PHB_ITEM_RATIONS_1DAY" amount="32">
 				<details card="true">
 					<name>
 					</name>
@@ -483,15 +481,6 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 				</details>
 			</item>
 			<item identifier="1bb822ce-d405-40f6-92db-c066f01828e3" name="Arrow" id="ID_WOTC_PHB_ITEM_ARROW" amount="18">
-				<details card="true">
-					<name>
-					</name>
-					<notes>
-					</notes>
-				</details>
-			</item>
-			<item identifier="684eb3f3-5436-4fde-b4ed-58a20b59b9c5" name="Shield" id="ID_WOTC_GEAR_SHIELD">
-				<equipped location="Secondary Hand">true</equipped>
 				<details card="true">
 					<name>
 					</name>
@@ -536,7 +525,7 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 					</notes>
 				</details>
 			</item>
-			<item identifier="a89bf9c1-9fc8-4cac-b4a2-0b37d7ab0bf6" name="Potion of Greater Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_GREATER_HEALING">
+			<item identifier="a89bf9c1-9fc8-4cac-b4a2-0b37d7ab0bf6" name="Potion of Greater Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_GREATER_HEALING" amount="3">
 				<details card="true">
 					<name>
 					</name>
@@ -615,7 +604,7 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 					</notes>
 				</details>
 			</item>
-			<item identifier="272bc2b7-0f9c-4daa-8a1c-99bc4dcf0cf1" name="Potion of Superior Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_SUPERIOR_HEALING" amount="2">
+			<item identifier="272bc2b7-0f9c-4daa-8a1c-99bc4dcf0cf1" name="Potion of Superior Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_SUPERIOR_HEALING" amount="4">
 				<details card="true">
 					<name>
 					</name>
@@ -652,8 +641,20 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 					</notes>
 				</details>
 			</item>
+			<item identifier="3560b9bf-e895-428c-829d-228eff8747f4" name="Shield" id="ID_WOTC_GEAR_SHIELD" sidebar="true">
+				<equipped location="Secondary Hand">true</equipped>
+				<items>
+					<adorner name="Shield, +1" id="ID_WOTC_DMG_MAGIC_ITEM_SHIELD_1" />
+				</items>
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
 		</equipment>
-		<sum element-count="171">
+		<sum element-count="172">
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING" />
 			<element type="Grants" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
@@ -702,7 +703,14 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 			<element type="Level" id="ID_LEVEL_7" />
 			<element type="Level" id="ID_LEVEL_8" />
 			<element type="Feat" id="ID_PHB_FEAT_TOUGH" />
-			<element type="Armor" id="ID_WOTC_GEAR_SHIELD" />
+			<element type="Level" id="ID_LEVEL_9" />
+			<element type="Grants" id="ID_INTERNAL_MULTICLASS_LEVEL_9" />
+			<element type="Spell" id="ID_PHB_SPELL_BLADE_WARD" />
+			<element type="Spell" id="ID_PHB_SPELL_MESSAGE" />
+			<element type="Spell" id="ID_PHB_SPELL_MENDING" />
+			<element type="Spell" id="ID_PHB_SPELL_PRESTIDIGITATION" />
+			<element type="Spell" id="ID_PHB_SPELL_SHIELD" />
+			<element type="Spell" id="ID_PHB_SPELL_EXPEDITIOUS_RETREAT" />
 			<element type="Weapon" id="ID_WOTC_PHB_WEAPON_LONGSWORD" />
 			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_GIANT_SLAYER" />
 			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_RING_OF_RESISTANCE_FIRE" />
@@ -718,14 +726,8 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_ARMOR_2" />
 			<element type="Item" id="ID_PHB_INTERNAL_ITEM_LANGUAGE_PROXY_LANGUAGE_PRIMORDIAL" />
 			<element type="Language" id="ID_LANGUAGE_PRIMORDIAL" />
-			<element type="Level" id="ID_LEVEL_9" />
-			<element type="Grants" id="ID_INTERNAL_MULTICLASS_LEVEL_9" />
-			<element type="Spell" id="ID_PHB_SPELL_BLADE_WARD" />
-			<element type="Spell" id="ID_PHB_SPELL_MESSAGE" />
-			<element type="Spell" id="ID_PHB_SPELL_MENDING" />
-			<element type="Spell" id="ID_PHB_SPELL_PRESTIDIGITATION" />
-			<element type="Spell" id="ID_PHB_SPELL_SHIELD" />
-			<element type="Spell" id="ID_PHB_SPELL_EXPEDITIOUS_RETREAT" />
+			<element type="Armor" id="ID_WOTC_GEAR_SHIELD" />
+			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_SHIELD_1" />
 			<element type="Class" id="ID_WOTC_PHB_CLASS_PALADIN" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LIGHT_ARMOR" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_PADDED" />
@@ -831,24 +833,24 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 				<slots s1="4" s2="3" s3="0" s4="0" s5="0" s6="0" s7="0" s8="0" s9="0" />
 				<cantrips />
 				<spells>
-					<spell name="Bless" level="1" id="ID_PHB_SPELL_BLESS" prepared="true" />
+					<spell name="Compelled Duel" level="1" id="ID_PHB_SPELL_COMPELLED_DUEL" prepared="true" />
 					<spell name="Cure Wounds" level="1" id="ID_PHB_SPELL_CURE_WOUNDS" prepared="true" />
+					<spell name="Detect Magic" level="1" id="ID_PHB_SPELL_DETECT_MAGIC" prepared="true" />
 					<spell name="Protection from Evil and Good" level="1" id="ID_PHB_SPELL_PROTECTION_FROM_EVIL_AND_GOOD" prepared="true" always-prepared="true" known="true" />
 					<spell name="Sanctuary" level="1" id="ID_PHB_SPELL_SANCTUARY" prepared="true" always-prepared="true" known="true" />
-					<spell name="Searing Smite" level="1" id="ID_PHB_SPELL_SEARING_SMITE" prepared="true" />
 					<spell name="Shield of Faith" level="1" id="ID_PHB_SPELL_SHIELD_OF_FAITH" prepared="true" />
 					<spell name="Aid" level="2" id="ID_PHB_SPELL_AID" prepared="true" />
 					<spell name="Find Steed" level="2" id="ID_PHB_SPELL_FIND_STEED" prepared="true" />
 					<spell name="Lesser Restoration" level="2" id="ID_PHB_SPELL_LESSER_RESTORATION" prepared="true" always-prepared="true" known="true" />
 					<spell name="Zone of Truth" level="2" id="ID_PHB_SPELL_ZONE_OF_TRUTH" prepared="true" always-prepared="true" known="true" />
+					<spell name="Bless" level="1" id="ID_PHB_SPELL_BLESS" />
 					<spell name="Command" level="1" id="ID_PHB_SPELL_COMMAND" />
-					<spell name="Compelled Duel" level="1" id="ID_PHB_SPELL_COMPELLED_DUEL" />
 					<spell name="Detect Evil and Good" level="1" id="ID_PHB_SPELL_DETECT_EVIL_AND_GOOD" />
-					<spell name="Detect Magic" level="1" id="ID_PHB_SPELL_DETECT_MAGIC" />
 					<spell name="Detect Poison and Disease" level="1" id="ID_PHB_SPELL_DETECT_POISON_AND_DISEASE" />
 					<spell name="Divine Favor" level="1" id="ID_PHB_SPELL_DIVINE_FAVOR" />
 					<spell name="Heroism" level="1" id="ID_PHB_SPELL_HEROISM" />
 					<spell name="Purify Food and Drink" level="1" id="ID_PHB_SPELL_PURIFY_FOOD_AND_DRINK" />
+					<spell name="Searing Smite" level="1" id="ID_PHB_SPELL_SEARING_SMITE" />
 					<spell name="Thunderous Smite" level="1" id="ID_PHB_SPELL_THUNDEROUS_SMITE" />
 					<spell name="Wrathful Smite" level="1" id="ID_PHB_SPELL_WRATHFUL_SMITE" />
 					<spell name="Branding Smite" level="2" id="ID_PHB_SPELL_BRANDING_SMITE" />
