@@ -100,7 +100,7 @@ Gefahr: verwendet einen lightning ray (16d10)
 Empfehung: direkte Konfrontation vermeiden
 Tot: nein, zuletzt beim [[Eye of the All-father|Auge des Allvaters]] gesehen
 
-# Die Chroniken: Personen, Orte und Ereignisse
+# Die Chroniken: Personen, Orte, Ereignisse und Mythen
 ## Orte
 ### [[Mirabar]]
 Bekannte Gefahren:
@@ -149,6 +149,9 @@ Goldwaage:
 - Handels- und Minenhäuser Mitarbeiter verweilen hier
 - Wirtin: Bralda Eisenschank
 
+### [[Ironslag]]
+Mit "By Surtur's flame, I command these doors to close!" oder "By Surtur's flame, I command these doors to open!" können die großen Andamtine Türen geöffnet werden, insofern ein [[Fire Giant.png]] im Umkreis von 50ft der Tür ist.
+
 ### Spine of the World
 Unter den Frostbergen schlummern Adern von Silber und Mithral, unberührt seit dem Fall Ostorias. In den nördlichen Tiefen der Spine of the World liegt Reichtum für jene, die den Mut und die Werkzeuge haben. Keiner der jetzt Lebenden ist dies bekannt.
 
@@ -166,3 +169,8 @@ Wenn Snarl hilft, dann ist es aus Kalkül. Dass andere Drachen ihn verachten ist
 - Sein Name taucht im Zusammenhang mit Konstrukten, die nicht hätten funktionieren dürfen – es aber taten
 
 ## Ereignisse
+
+## Mythen
+### Surtur
+Surtur ist eine legendäre Figur aus alten Riesen-Mythen. Feuerriesen verehren ihn als Verköperung ultimativer Flammenmacht.
+Der Name wird häufig für Runenmagie oder uralte Feuerartefakte verwendet. Dinge, die „Surturs Flamme“ genannt werden, sind meist magische Quellen extremen Feuers, oft von Feuerriesen geschmiedet.

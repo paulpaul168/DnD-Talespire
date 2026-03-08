@@ -5,7 +5,7 @@ tags:
 
 
 **Gefahren nördlich der Stadt**:
-1. [[Ogre]] und Orks:
+1. [[Ogre]] und [[Orc]]:
 	1. Streunen oft durch die Hügel und Wälder. Nicht besonders schlau, aber zahlreich und brutal.
 	2. Empfehlung: Bei kleinen Gruppen – weiträumig umgehen. Große Gruppen meiden, außer ihr seid zahlreich oder habt Zauberwirker.
 2. Trolle aus den Mooren:

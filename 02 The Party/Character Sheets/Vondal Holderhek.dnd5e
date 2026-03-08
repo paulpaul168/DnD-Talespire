@@ -77,7 +77,7 @@
 			</currency>
 			<notes>
 				<note column="left">Language learning progress:
-- Elvish: 72/125 (letztes Update 282)
+- Elvish: 95/125 (letztes Update 306)
 
 Must equip spells (Available spell slots):
 - Chromatic Orb (Level 1)
@@ -132,7 +132,7 @@ How to obtain armor for the Wizard:
 			<wisdom>10</wisdom>
 			<charisma>10</charisma>
 		</abilities>
-		<elements level-count="9" registered-count="56">
+		<elements level-count="9" registered-count="55">
 			<element type="Option" name="Feats" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" name="Multiclassing" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING">
 				<element type="Grants" name="Multiclass Spellcasting" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
@@ -365,7 +365,6 @@ How to obtain armor for the Wizard:
 				</details>
 			</item>
 			<item identifier="df031a25-a784-4c81-9740-1d94e65cd327" name="Shield" id="ID_WOTC_GEAR_SHIELD">
-				<equipped location="Secondary Hand">true</equipped>
 				<details card="true">
 					<name>
 					</name>
@@ -429,22 +428,6 @@ How to obtain armor for the Wizard:
 					</notes>
 				</details>
 			</item>
-			<item identifier="8aefed6b-6f8a-4a80-a6dc-6121a45a8bdd" name="Potion of Superior Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_SUPERIOR_HEALING">
-				<details card="true">
-					<name>
-					</name>
-					<notes>
-					</notes>
-				</details>
-			</item>
-			<item identifier="ca4cd3f7-9fc1-4dca-86f8-2958dabc2325" name="Potion of Greater Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_GREATER_HEALING">
-				<details card="true">
-					<name>
-					</name>
-					<notes>
-					</notes>
-				</details>
-			</item>
 			<item identifier="11284f8a-767c-478e-8f6b-471936d094d1" name="Chain Shirt" id="ID_WOTC_ARMOR_MEDIUM_CHAIN_SHIRT" sidebar="true">
 				<equipped location="Armor">true</equipped>
 				<items>
@@ -458,7 +441,7 @@ How to obtain armor for the Wizard:
 				</details>
 			</item>
 		</equipment>
-		<sum element-count="109">
+		<sum element-count="108">
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING" />
 			<element type="Grants" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
@@ -544,7 +527,6 @@ How to obtain armor for the Wizard:
 			<element type="Item" id="ID_PHB_INTERNAL_ITEM__SPELL_PROXY_SPELL_IDENTIFY" />
 			<element type="Spell" id="ID_PHB_SPELL_IDENTIFY" />
 			<element type="Weapon" id="ID_WOTC_PHB_WEAPON_QUARTERSTAFF" />
-			<element type="Armor" id="ID_WOTC_GEAR_SHIELD" />
 			<element type="Armor" id="ID_WOTC_ARMOR_MEDIUM_CHAIN_SHIRT" />
 			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_ARMOR_1" />
 			<element type="Class" id="ID_WOTC_PHB_CLASS_WIZARD" />
@@ -581,26 +563,26 @@ How to obtain armor for the Wizard:
 				<spells>
 					<spell name="Chromatic Orb" level="1" id="ID_PHB_SPELL_CHROMATIC_ORB" prepared="true" always-prepared="true" known="true" />
 					<spell name="Find Familiar" level="1" id="ID_PHB_SPELL_FIND_FAMILIAR" prepared="true" always-prepared="true" known="true" />
-					<spell name="Magic Missile" level="1" id="ID_PHB_SPELL_MAGIC_MISSILE" prepared="true" always-prepared="true" known="true" />
 					<spell name="Shield" level="1" id="ID_PHB_SPELL_SHIELD" prepared="true" always-prepared="true" known="true" />
 					<spell name="Invisibility" level="2" id="ID_PHB_SPELL_INVISIBILITY" prepared="true" always-prepared="true" known="true" />
 					<spell name="Misty Step" level="2" id="ID_PHB_SPELL_MISTY_STEP" prepared="true" always-prepared="true" known="true" />
 					<spell name="Counterspell" level="3" id="ID_PHB_SPELL_COUNTERSPELL" prepared="true" always-prepared="true" known="true" />
 					<spell name="Fireball" level="3" id="ID_PHB_SPELL_FIREBALL" prepared="true" always-prepared="true" known="true" />
 					<spell name="Hypnotic Pattern" level="3" id="ID_PHB_SPELL_HYPNOTIC_PATTERN" prepared="true" always-prepared="true" known="true" />
+					<spell name="Major Image" level="3" id="ID_PHB_SPELL_MAJOR_IMAGE" prepared="true" always-prepared="true" known="true" />
+					<spell name="Banishment" level="4" id="ID_PHB_SPELL_BANISHMENT" prepared="true" always-prepared="true" known="true" />
 					<spell name="Polymorph" level="4" id="ID_PHB_SPELL_POLYMORPH" prepared="true" always-prepared="true" known="true" />
-					<spell name="Animate Objects" level="5" id="ID_PHB_SPELL_ANIMATE_OBJECTS" prepared="true" always-prepared="true" known="true" />
 					<spell name="Wall of Force" level="5" id="ID_PHB_SPELL_WALL_OF_FORCE" prepared="true" always-prepared="true" known="true" />
 					<spell name="Disguise Self" level="1" id="ID_PHB_SPELL_DISGUISE_SELF" always-prepared="true" known="true" />
 					<spell name="Grease" level="1" id="ID_PHB_SPELL_GREASE" always-prepared="true" known="true" />
 					<spell name="Ice Knife" level="1" id="ID_XGTE_SPELL_ICE_KNIFE" always-prepared="true" known="true" />
 					<spell name="Illusory Script" level="1" id="ID_PHB_SPELL_ILLUSORY_SCRIPT" always-prepared="true" known="true" />
+					<spell name="Magic Missile" level="1" id="ID_PHB_SPELL_MAGIC_MISSILE" always-prepared="true" known="true" />
 					<spell name="Cloud of Daggers" level="2" id="ID_PHB_SPELL_CLOUD_OF_DAGGERS" always-prepared="true" known="true" />
 					<spell name="Dragon’s Breath" level="2" id="ID_XGTE_SPELL_DRAGONS_BREATH" always-prepared="true" known="true" />
-					<spell name="Major Image" level="3" id="ID_PHB_SPELL_MAJOR_IMAGE" always-prepared="true" known="true" />
-					<spell name="Banishment" level="4" id="ID_PHB_SPELL_BANISHMENT" always-prepared="true" known="true" />
 					<spell name="Phantasmal Killer" level="4" id="ID_PHB_SPELL_PHANTASMAL_KILLER" always-prepared="true" known="true" />
 					<spell name="Sickening Radiance" level="4" id="ID_XGTE_SPELL_SICKENING_RADIANCE" always-prepared="true" known="true" />
+					<spell name="Animate Objects" level="5" id="ID_PHB_SPELL_ANIMATE_OBJECTS" always-prepared="true" known="true" />
 				</spells>
 			</spellcasting>
 			<additional>
