@@ -58,7 +58,7 @@ Beschreibung: mehrere Köpfe, typischerweise 14 AC, 60ft fly speed, fire breath,
 ### Schwarzer Reiter
 Beschreibung: schwarze Rüstung, flammendes Feuerschwert, mindestens 20 AC (22 trifft), sein Pferd hat <= 18 AC, er kann parieren +6 AC, advantage auf saving throws
 
-### Orks/Ogernbanden
+### [[Orc]]s/Ogernbanden
 Streunen oft durch die Hügel und Wälder. Nicht besonders schlau, aber zahlreich und brutal. 
 Empfehlung: Bei kleinen Gruppen – weiträumig umgehen. Große Gruppen meiden, außer ihr seid zahlreich oder habt Zauberwirker.  
 
@@ -99,6 +99,9 @@ Seltenheit: sehr selten
 Gefahr: verwendet einen lightning ray (16d10)
 Empfehung: direkte Konfrontation vermeiden
 Tot: nein, zuletzt beim [[Eye of the All-father|Auge des Allvaters]] gesehen
+
+### Höllenhund
+- Immun gegen Feuer
 
 # Die Chroniken: Personen, Orte, Ereignisse und Mythen
 ## Orte

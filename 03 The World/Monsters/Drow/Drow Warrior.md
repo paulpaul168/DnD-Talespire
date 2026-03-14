@@ -4,4 +4,5 @@ tags:
   - monster/drow
 aliases:
   - Dark Elf Warrior
+  - Dunkelelfkrieger
 ---

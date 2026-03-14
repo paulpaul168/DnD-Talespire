@@ -1,5 +1,7 @@
 ---
 tags:
+aliases:
+  - Tresendar Manor
 ---
 Ort: [[Phandalin]]
 # Gebäude
