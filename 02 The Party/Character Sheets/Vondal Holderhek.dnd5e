@@ -88,23 +88,23 @@ Must equip spells (Available spell slots):
 - Hypnotic Pattern (Level 3, Concentration)
 
 Next spells to learn:
+- Expeditious Retreat (Level 1)
 - Tasha's Hideaus Laugther (Level 1)
 - Web (level 2)
 - Fear (Level 3)
+- Fly (Level 3)
 - Otiluke's Resilient Sphere (Level 4)
 - Geas (Level 5)
 
 Next items to buy:
-- Chain Shirt +1
+- Bag f Holding (uncommon)
+- Boots of Striding and Springing (uncommon)
+- Cloak of Protection (uncommon)
 
 ---
 
 How to obtain hp for the Wizard:
-- Constitution
-
-How to obtain armor for the Wizard:
-- Dexterity
-- Elven Chain (+1 AC)</note>
+- Constitution</note>
 				<note column="right">
 				</note>
 			</notes>
@@ -124,7 +124,7 @@ How to obtain armor for the Wizard:
 			<hair>
 			</hair>
 		</appearance>
-		<abilities available-points="15">
+		<abilities available-points="-6">
 			<strength>8</strength>
 			<dexterity>14</dexterity>
 			<constitution>14</constitution>

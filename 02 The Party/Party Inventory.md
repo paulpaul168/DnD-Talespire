@@ -21,7 +21,6 @@
 - 1x [Potion of Mind Reading](https://www.dndbeyond.com/magic-items/4711-potion-of-mind-reading) 
 - 1x [Potion of Water Breathing](https://www.dndbeyond.com/magic-items/4715-potion-of-water-breathing) 
 - 1x [Potion of Growth](https://www.dndbeyond.com/magic-items/4707-potion-of-growth)  
-- 1x [Potion of Invisibility](https://www.dndbeyond.com/magic-items/4710-potion-of-invisibility) 
 - 1x [Potion of Animal Friendship](https://www.dndbeyond.com/magic-items/4700-potion-of-animal-friendship)
 
 ---
@@ -38,7 +37,7 @@
 - [Empfehlungsschreiben](Quest%207.md) 
 - [Giant Slayer](Giantslayer.md)
 - 2 goldene Löwenfigurinen welche wenn aktiviert Goldene Löwen beschwören (6h - einmal alle 7 Tage)
-- Leicht verbrannte Karte von Iron Slack
+- Leicht verbrannte Karte von [[Ironslag]]
 
 ---
 
