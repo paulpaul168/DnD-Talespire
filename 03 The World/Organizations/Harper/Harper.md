@@ -28,5 +28,5 @@ Sie verfügen über Teleportationspunkte in:
 - Loudwater
 - [[Mirabar]]
 - [[Neverwinter]]
-- Waterdeep
+- [[Waterdeep]]
 - [[Yartar]]

@@ -177,3 +177,8 @@ Wenn Snarl hilft, dann ist es aus Kalkül. Dass andere Drachen ihn verachten ist
 ### Surtur
 Surtur ist eine legendäre Figur aus alten Riesen-Mythen. Feuerriesen verehren ihn als Verköperung ultimativer Flammenmacht.
 Der Name wird häufig für Runenmagie oder uralte Feuerartefakte verwendet. Dinge, die „Surturs Flamme“ genannt werden, sind meist magische Quellen extremen Feuers, oft von Feuerriesen geschmiedet.
+
+## Gegenstände
+### Magische Missmuschel
+Auf der magischen Missmuschel befindet sich eine Rune.
+Als Action kann ein Teleport Spell ausgelöst werden. Die Destination ist fix => es gibt keine failures. Innerhalb von 10ft können bis zu 8 willing creatures mitgenommen werden. Es kann 1 mal pro Tag gecastet werden.

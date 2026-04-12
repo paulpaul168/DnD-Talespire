@@ -28,7 +28,7 @@
 			<name>Ander Thorngage</name>
 			<gender>Male</gender>
 			<player-name>Johannes Blab</player-name>
-			<experience>51147</experience>
+			<experience>58147</experience>
 			<attacks>
 				<description><![CDATA[]]></description>
 				<attack identifier="69db4fc0-d7c5-494d-9634-42be79963bac" name="Longsword +1" range="5 ft" attack="+9 vs AC" damage="1d8+5 slashing" displayed="true" ability="Strength">
@@ -67,12 +67,12 @@ You might also have ties to a specific temple dedicated to your chosen deity or 
 			<additional-features><![CDATA[Gottheit: 	Catgirl
 Titel: 		Treant-Schlächter
 
-Sprache Giant lernen: 45/125]]></additional-features>
+Sprache Giant lernen: 52/125]]></additional-features>
 			<currency>
 				<copper>9</copper>
 				<silver>1</silver>
 				<electrum>0</electrum>
-				<gold>148</gold>
+				<gold>228</gold>
 				<platinum>0</platinum>
 				<equipment><![CDATA[]]></equipment>
 				<treasure><![CDATA[Mineneinnahmen: 300 - 1500 Gold/Monat
@@ -97,7 +97,7 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 1 Fläschchen Quecksilber
 220ml Gift in Fläschchen
 1 Violettes Taschentuch von Yegg
-3 Molotovcocktails
+2 Molotovcocktails
 1 dreckige Robe (Messdiener-Goblin)
 1 Vorhang (Messdiener-Goblin)
 1 verdreckter, mottiger Umhang (König Grol)
@@ -118,7 +118,7 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 1 Oil of Sharpness (Waffe auf +3magisch angehoben, 1Stunde)
 1 Druidenkräuter (Abwehr von Albträumen/frostbasierten Effekten (einmal +2 auf einen Rettungswurf gegen Kältezauber/Schlafmagie)
 1 Zwergenmuttropfen (Vorteil auf Kon-saves für 8Stunden)
-2 starker Kräuterschnaps
+2 starker Kräuterschnapps
 1 Cloak of Billowing (weht dramatisch)]]></treasure>
 			</currency>
 			<notes>
@@ -147,7 +147,7 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 			<wisdom>12</wisdom>
 			<charisma>14</charisma>
 		</abilities>
-		<elements level-count="9" registered-count="49">
+		<elements level-count="9" registered-count="50">
 			<element type="Option" name="Feats" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" name="Multiclassing" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING">
 				<element type="Grants" name="Multiclass Spellcasting" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
@@ -448,7 +448,7 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 					</notes>
 				</details>
 			</item>
-			<item identifier="756dabfa-96d4-4ba9-88b6-fff0062e38ca" name="Rations (1 day)" id="ID_WOTC_PHB_ITEM_RATIONS_1DAY" amount="32">
+			<item identifier="756dabfa-96d4-4ba9-88b6-fff0062e38ca" name="Rations (1 day)" id="ID_WOTC_PHB_ITEM_RATIONS_1DAY" amount="20">
 				<details card="true">
 					<name>
 					</name>
@@ -533,7 +533,7 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 					</notes>
 				</details>
 			</item>
-			<item identifier="e9621c48-5cf3-4952-8490-7ecebba9f146" name="Potion of Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_HEALING" amount="2">
+			<item identifier="e9621c48-5cf3-4952-8490-7ecebba9f146" name="Potion of Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_HEALING" amount="3">
 				<details card="true">
 					<name>
 					</name>
@@ -604,7 +604,7 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 					</notes>
 				</details>
 			</item>
-			<item identifier="272bc2b7-0f9c-4daa-8a1c-99bc4dcf0cf1" name="Potion of Superior Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_SUPERIOR_HEALING" amount="4">
+			<item identifier="272bc2b7-0f9c-4daa-8a1c-99bc4dcf0cf1" name="Potion of Superior Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_SUPERIOR_HEALING">
 				<details card="true">
 					<name>
 					</name>
@@ -653,8 +653,18 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 					</notes>
 				</details>
 			</item>
+			<item identifier="6a7ea4e0-e0e3-4e65-84b7-c2269db6d7f7" name="Amulet of Health" id="ID_WOTC_DMG_MAGIC_ITEM_AMULET_OF_HEALTH" sidebar="true">
+				<equipped>true</equipped>
+				<attunement>true</attunement>
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
 		</equipment>
-		<sum element-count="172">
+		<sum element-count="173">
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING" />
 			<element type="Grants" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
@@ -728,6 +738,7 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 			<element type="Language" id="ID_LANGUAGE_PRIMORDIAL" />
 			<element type="Armor" id="ID_WOTC_GEAR_SHIELD" />
 			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_SHIELD_1" />
+			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_AMULET_OF_HEALTH" />
 			<element type="Class" id="ID_WOTC_PHB_CLASS_PALADIN" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LIGHT_ARMOR" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_PADDED" />

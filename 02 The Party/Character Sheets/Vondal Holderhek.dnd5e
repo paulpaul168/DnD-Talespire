@@ -28,7 +28,7 @@
 			<name>Vondal Holderhek</name>
 			<gender>Male</gender>
 			<player-name>Steven</player-name>
-			<experience>48000</experience>
+			<experience>58147</experience>
 			<attacks>
 				<description><![CDATA[]]></description>
 				<attack identifier="77ba559c-7bc5-4aa4-97a6-349a2d782f7e" name="Quarterstaff" range="5 ft" attack="+4 vs AC" damage="1d6+0 bludgeoning" displayed="true" ability="Strength">
@@ -36,6 +36,9 @@
 				</attack>
 				<attack identifier="4a14327c-a382-4c6b-909d-e1a209080537" name="Dagger" range="20/60" attack="+6 vs AC" damage="1d4+2 piercing" displayed="true" ability="Dexterity">
 					<description><![CDATA[Finesse, Light, Thrown]]></description>
+				</attack>
+				<attack identifier="62cca14f-319b-48ab-b9a8-6eb223b62196" name="Staff of Defense" range="5 ft" attack="+4 vs AC" damage="1d6+0 bludgeoning" displayed="true" ability="Strength">
+					<description><![CDATA[Versatile]]></description>
 				</attack>
 			</attacks>
 			<backstory><![CDATA[You spent years learning the lore of the multiverse. You scoured manuscripts, studied scrolls, and listened to the greatest experts on the subjects that interest you. Your efforts have made you a master in your fields of study.]]></backstory>
@@ -73,7 +76,35 @@
 - Flackerfeuer Infusion: Die Augen leuchten 1 Minute wie heiße Kohlen, Vorteil auf Intimidation
 - Essenz eines Remorhaz
 - 1x Drachenschachbrett
-- 1x Drachenspielkarten]]></treasure>
+- 1x Drachenspielkarten
+
+- Spell Book 1:
+-- 1. Mage Armor
+-- 1. Magic Missile
+-- 1. Shield
+-- 1. Witch Bolt
+-- 2. Alter Self
+-- 2. Misty Step
+-- 2. Web
+-- 3. Fly
+-- 3. Lightning
+-- 4. Edwards Black Tentacles
+-- 4. Greater Invisibility
+-- 5. Cloud Kill
+
+- Spell Book 2:
+-- 1. Mage Armor
+-- 1. Magic Missile
+-- 1. Shield
+-- 1. Witch Bolt
+-- 2. Alter Self
+-- 2. Misty Step
+-- 2. Web
+-- 3. Fly
+-- 3. Lightning
+-- 4. Edwards Black Tentacles
+-- 4. Greater Invisibility
+-- 5. Cloud Kill]]></treasure>
 			</currency>
 			<notes>
 				<note column="left">Language learning progress:
@@ -105,8 +136,33 @@ Next items to buy:
 
 How to obtain hp for the Wizard:
 - Constitution</note>
-				<note column="right">
-				</note>
+				<note column="right">- Spell Book 1:
+-- 1. Mage Armor
+-- 1. Magic Missile
+-- 1. Shield
+-- 1. Witch Bolt
+-- 2. Alter Self
+-- 2. Misty Step
+-- 2. Web
+-- 3. Fly
+-- 3. Lightning
+-- 4. Edwards Black Tentacles
+-- 4. Greater Invisibility
+-- 5. Cloud Kill
+
+- Spell Book 2:
+-- 1. Mage Armor
+-- 1. Magic Missile
+-- 1. Shield
+-- 1. Witch Bolt
+-- 2. Alter Self
+-- 2. Misty Step
+-- 2. Web
+-- 3. Fly
+-- 3. Lightning
+-- 4. Edwards Black Tentacles
+-- 4. Greater Invisibility
+-- 5. Cloud Kill</note>
 			</notes>
 			<quest>
 			</quest>
@@ -132,7 +188,7 @@ How to obtain hp for the Wizard:
 			<wisdom>10</wisdom>
 			<charisma>10</charisma>
 		</abilities>
-		<elements level-count="9" registered-count="55">
+		<elements level-count="9" registered-count="58">
 			<element type="Option" name="Feats" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" name="Multiclassing" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING">
 				<element type="Grants" name="Multiclass Spellcasting" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
@@ -348,7 +404,6 @@ How to obtain hp for the Wizard:
 				</details>
 			</item>
 			<item identifier="77ba559c-7bc5-4aa4-97a6-349a2d782f7e" name="Quarterstaff" id="ID_WOTC_PHB_WEAPON_QUARTERSTAFF">
-				<equipped location="Primary Hand">true</equipped>
 				<details card="true">
 					<name>
 					</name>
@@ -421,6 +476,7 @@ How to obtain hp for the Wizard:
 				</details>
 			</item>
 			<item identifier="4a14327c-a382-4c6b-909d-e1a209080537" name="Dagger" id="ID_WOTC_PHB_WEAPON_DAGGER">
+				<equipped location="Secondary Hand">true</equipped>
 				<details card="true">
 					<name>
 					</name>
@@ -440,8 +496,55 @@ How to obtain hp for the Wizard:
 					</notes>
 				</details>
 			</item>
+			<item identifier="4b7e099f-eb93-4174-9c56-fe53070abe88" name="Boots of Striding and Springing" id="ID_WOTC_DMG_MAGIC_ITEM_BOOTS_OF_STRIDING_AND_SPRINGING" sidebar="true">
+				<equipped>true</equipped>
+				<attunement>true</attunement>
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="2300c7b8-620e-49c9-8877-3f14cd7cf87e" name="Additional Wizard Spell, Identify" id="ID_PHB_INTERNAL_ITEM_WIZARD_SPELL_PROXY_SPELL_IDENTIFY" hidden="true">
+				<details card="false">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="051f1a7b-4d32-4f65-b321-328350bb2bd4" name="Spell Scroll, Chain Lightning" id="ID_INTERNAL_MAGIC_ITEM_SPELL_SCROLL_CHAIN_LIGHTNING">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="69a693da-0c69-46c9-81af-2d88129fda08" name="Spell Scroll, Plane Shift" id="ID_INTERNAL_MAGIC_ITEM_SPELL_SCROLL_PLANE_SHIFT">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="62cca14f-319b-48ab-b9a8-6eb223b62196" name="Quarterstaff" id="ID_WOTC_PHB_WEAPON_QUARTERSTAFF" sidebar="true">
+				<equipped location="Primary Hand">true</equipped>
+				<attunement>true</attunement>
+				<items>
+					<adorner name="Staff of Defense" id="ID_WOTC_LMOP_MAGIC_ITEM_STAFF_OF_DEFENSE" />
+				</items>
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
 		</equipment>
-		<sum element-count="108">
+		<sum element-count="111">
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING" />
 			<element type="Grants" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
@@ -526,9 +629,12 @@ How to obtain hp for the Wizard:
 			<element type="Spell" id="ID_PHB_SPELL_ANIMATE_OBJECTS" />
 			<element type="Item" id="ID_PHB_INTERNAL_ITEM__SPELL_PROXY_SPELL_IDENTIFY" />
 			<element type="Spell" id="ID_PHB_SPELL_IDENTIFY" />
-			<element type="Weapon" id="ID_WOTC_PHB_WEAPON_QUARTERSTAFF" />
 			<element type="Armor" id="ID_WOTC_ARMOR_MEDIUM_CHAIN_SHIRT" />
 			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_ARMOR_1" />
+			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_BOOTS_OF_STRIDING_AND_SPRINGING" />
+			<element type="Weapon" id="ID_WOTC_PHB_WEAPON_QUARTERSTAFF" />
+			<element type="Magic Item" id="ID_WOTC_LMOP_MAGIC_ITEM_STAFF_OF_DEFENSE" />
+			<element type="Weapon" id="ID_WOTC_PHB_WEAPON_DAGGER" />
 			<element type="Class" id="ID_WOTC_PHB_CLASS_WIZARD" />
 			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_DAGGER" />
 			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_DART" />
