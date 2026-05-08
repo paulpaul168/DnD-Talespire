@@ -4,77 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "29c9b4ddac4d07bb",
+        "id": "48173aaf8c954813",
         "type": "tabs",
         "children": [
           {
-            "id": "3dbdaff33160d1f1",
+            "id": "501e8812f4ca0ed1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 The Campaign/Journal/2026/260412.md",
+                "file": "03 The World/NPCs/Named NPCs/Sandyse Thunderquill.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "260412"
+              "title": "Sandyse Thunderquill"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "ae76788abbdd0504",
+        "type": "tabs",
+        "children": [
           {
-            "id": "057cfbb558a2f1d0",
+            "id": "0c404e05ecb8a955",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 The World/Organizations/Harper/Harper.md",
+                "file": "01 The Campaign/Journal/The Chronicles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Harper"
-            }
-          },
-          {
-            "id": "9232bab9fb6b93f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 The World/NPCs/Named NPCs/Herzogin Sanuri von Lyn Armaal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Herzogin Sanuri von Lyn Armaal"
-            }
-          },
-          {
-            "id": "702300a869445966",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 The Party/Characters/Vondal Holderhek/Die Schriften des Vondal - Eine Enzyklopädie der Reiche.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Die Schriften des Vondal - Eine Enzyklopädie der Reiche"
-            }
-          },
-          {
-            "id": "9d59d4fc83242087",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 The Party/Characters/Vondal Holderhek/Enduring Spellbook.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Enduring Spellbook"
+              "title": "The Chronicles"
             }
           }
         ]
@@ -100,7 +64,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Dateiexplorer"
+              "title": "Files"
             }
           },
           {
@@ -211,47 +175,47 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Schnellauswahl öffnen": false,
-      "graph:Graph-Ansicht öffnen": false,
-      "canvas:Neuen Canvas erstellen": false,
-      "daily-notes:Heutige Notiz öffnen": false,
-      "templates:Vorlage einfügen": false,
-      "command-palette:Befehlspalette öffnen": false,
-      "bases:Neue Base erstellen": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "3dbdaff33160d1f1",
+  "active": "501e8812f4ca0ed1",
   "lastOpenFiles": [
-    "03 The World/NPCs/Named NPCs/Thestryl Mellardin.md",
     "01 The Campaign/Journal/2026/260412.md",
-    "03 The World/NPCs/Named NPCs/Sandyse Thunderquill.md",
-    "02 The Party/Characters/Vondal Holderhek/Enduring Spellbook.md",
-    "03 The World/NPCs/Named NPCs/Krowen Valharrow.md",
-    "03 The World/NPCs/Named NPCs/Linene Grauwind.md",
-    "03 The World/NPCs/Named NPCs/Lordek.md",
-    "03 The World/NPCs/Named NPCs/Königin Tithmel.md",
-    "03 The World/NPCs/Named NPCs/König Hekaton.md",
-    "03 The World/NPCs/Named NPCs/Herzogin Sanuri von Lyn Armaal.md",
-    "03 The World/NPCs/Named NPCs/Edermeth.md",
-    "03 The World/NPCs/Named NPCs/Halani Meliamne.md",
-    "03 The World/NPCs/Named NPCs/Harshnag.md",
-    "03 The World/NPCs/Named NPCs/Herzog Zalto.md",
-    "03 The World/NPCs/Named NPCs/Iarno.md",
-    "03 The World/NPCs/Named NPCs/Gudren Felssucher.md",
-    "02 The Party/Party Inventory.md",
-    "03 The World/Organizations/Harper/Harper.md",
-    "03 The World/Weltkarte.jpg",
-    "03 The World/Cities/Waterdeep/Waterdeep.md",
-    "03 The World/Cities/Phandalin/Phandalin.md",
-    "03 The World/Cities/Waterdeep",
-    "03 The World/NPCs/Named NPCs/Ormrik.md",
-    "02 The Party/Characters/Vondal Holderhek/Vondal Holderhek Backstory.pdf",
-    "03 The World/NPCs/Named NPCs/Klauth.md",
-    "02 The Party/Characters/Vondal Holderhek/Die Schriften des Vondal - Eine Enzyklopädie der Reiche.md",
-    "03 The World/NPCs/Named NPCs/König Morinn.md",
-    "01 The Campaign/Journal/2024/241124.md",
+    "01 The Campaign/Journal/The Chronicles.md",
+    "01 The Campaign/Journal/2026/260514.md",
+    "02 The Party/Property/Territories & Buildings/Tresendar Manor/Tresendar Manor - Gasthaus zum goldenen Elch.md",
+    "01 The Campaign/Journal/2025/251214.md",
+    "01 The Campaign/Journal/2026/260323.md",
+    "01 The Campaign/Journal/2026/260308.md",
+    "01 The Campaign/Journal/2026/260208.md",
+    "01 The Campaign/Journal/2026/260111.md",
+    "01 The Campaign/Journal/2025/250810.md",
+    "01 The Campaign/Journal/2025/250928.md",
+    "01 The Campaign/Journal/2025/250713.md",
+    "01 The Campaign/Journal/2025/251026.md",
+    "01 The Campaign/Journal/2025/250620.md",
+    "01 The Campaign/Journal/2025/250608.md",
+    "03 The World/Organizations/Jagddorffolk/Jagddorffolk.md",
+    "01 The Campaign/Journal/2025/250309.md",
     "01 The Campaign/Journal/2025/250126.md",
+    "01 The Campaign/Journal/2025/250427.md",
+    "01 The Campaign/Journal/2024/241228.md",
+    "01 The Campaign/Journal/2024/241124.md",
+    "03 The World/Cities/Sundabar/Sundabar.md",
+    "01 The Campaign/Journal/2024/241103.md",
+    "01 The Campaign/Journal/2024/241006.md",
+    "01 The Campaign/Journal/2024/240901.md",
+    "01 The Campaign/Journal/2024/240816.md",
+    "02 The Party/Characters/Vondal Holderhek/Vondal Holderhek Backstory.pdf",
     "02 The Party/Characters/Vondal Holderhek/Runenhort Waxsiegel.jpg",
+    "03 The World/Weltkarte.jpg",
+    "03 The World/Cities/Waterdeep",
     "02 The Party/Character Sheets/amber ironfist.pdf",
     "02 The Party/Character Sheets/thokk.pdf",
     "02 The Party/Character Sheets/vondal holderhek.pdf",
