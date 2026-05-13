@@ -1,3 +1,0 @@
-Jagddorffolk is a community of hostile entities who live in a village atop of a mountain. An elevator located in the village that leads into a mine shaft.
-
-When encountering the village during the session [[250126]] Kartha-Kaya the leader of the tribe. He betrays the party and attempts to enslave them with the help of his warriors. The party succeeds in defending themselves and kills all the warriors.

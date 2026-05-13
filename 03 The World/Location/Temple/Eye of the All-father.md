@@ -5,3 +5,4 @@ tags:
 aliases:
   - Auge des Allvaters
 ---
+- Das [[Orakel]] ist hier

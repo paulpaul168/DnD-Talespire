@@ -19,8 +19,8 @@
 **Tag 182: Mission: Zerstörung von Ironslag**
 **Überblick:** [[König Morinn]] befiehlt den Spielern, [[Ironslag]] zu zerstören.
 
-**Tag 184: Vernichtung des [[Jagddorffolk]]**
-**Überblick:** Die Gruppe vernichtet das [[Jagddorffolk]] und befreit die Sklaven.
+**Tag 184: Vernichtung des [[Yagfolk]]**
+**Überblick:** Die Gruppe vernichtet das [[Yagfolk]] und befreit die Sklaven.
 
 **Tag 193: Krivs Abschied**
 **Überblick:** [[Kriv]] bricht zu einer persönlichen Mission auf.
@@ -37,8 +37,8 @@ T**ag 232: Eiserner Tod**
 **Tag 236: Erreichen des [[Eye of the All-father|Auge des Allvaters]]**
 **Überblick:** Die Gruppe erreicht das Gebäude indem das [[Eye of the All-father|Auge des Allvaters]] ist.
 
-**Tag 237: Mission: Magische Muschel**
-**Überblick:** Die Gruppe findet heraus, dass sie als nächstes eine magische Muschel finden muss. Davor muss sie aber eine [[Uthgardt]] Reliquie dem Orakle überreichen.
+**Tag 237: Mission: [[Magische Muschel]]**
+**Überblick:** Die Gruppe findet heraus, dass sie als nächstes eine [[Magische Muschel]] finden muss. Davor muss sie aber eine [[Uthgardt]] Reliquie dem [[Orakel]] überreichen.
 
 **Tag 247: [[Uthgardt]] Reliquie Übetgabe**
 **Überblick:** Die Gruppe gibt dem [[Eye of the All-father|Auge des Allvaters]] die Reliquie. Kurz darauf tötet [[Imrid]] [[Harshnag]].
@@ -49,8 +49,8 @@ T**ag 232: Eiserner Tod**
 **Tag 306: [[Herzog Zalto]] stirbt**
 **Überblick:** Die Gruppe tötet [[Herzog Zalto]].
 
-**Tag 306: Fund der magischen Muschel**
-**Überblick:** Die Gruppe findet die magische Muschel.
+**Tag 306: Fund der [[Magische Muschel]]**
+**Überblick:** Die Gruppe findet die [[Magische Muschel]].
 
 **Tag 308: Mission: Zerstörung von Ironslag**
 **Überblick:** [[König Morinn]] entlohnt die Gruppe mit 4 Elite-Söldnern und für jeden Charakter einen magischen Gegenstand.

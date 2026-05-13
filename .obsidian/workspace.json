@@ -4,27 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "48173aaf8c954813",
+        "id": "ae76788abbdd0504",
         "type": "tabs",
         "children": [
           {
-            "id": "501e8812f4ca0ed1",
+            "id": "edd48ec75536e434",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 The World/NPCs/Named NPCs/Sandyse Thunderquill.md",
+                "file": "03 The World/Organizations/Yagfolk/Yagfolk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sandyse Thunderquill"
+              "title": "Yagfolk"
+            }
+          },
+          {
+            "id": "011d57150a2a476a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 The World/Items/Magische Muschel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Magische Muschel"
+            }
+          },
+          {
+            "id": "6036e25d9a7831fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 The Campaign/Quests_/Zerstörung von Ironslag.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zerstörung von Ironslag"
+            }
+          },
+          {
+            "id": "53b9affd03594a19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 The Campaign/Journal/2025/250928.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "250928"
+            }
+          },
+          {
+            "id": "e756a3b826b8778f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 The World/Location/Hof des Sturmkönigs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hof des Sturmkönigs"
             }
           }
         ]
       },
       {
-        "id": "ae76788abbdd0504",
+        "id": "a53ab053b7959b6c",
         "type": "tabs",
         "children": [
           {
@@ -73,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "...",
+                "query": "muschel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,34 +240,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "501e8812f4ca0ed1",
+  "active": "6d4479cdeb0fef2d",
   "lastOpenFiles": [
-    "01 The Campaign/Journal/2026/260412.md",
+    "03 The World/Organizations/Lai'quendi/Lai'quendi.md",
+    "03 The World/Organizations/Yagfolk/Yagfolk.md",
+    "01 The Campaign/Quests_/Hauptquest.md",
+    "01 The Campaign/Quests_/Zerstörung von Ironslag.md",
     "01 The Campaign/Journal/The Chronicles.md",
-    "01 The Campaign/Journal/2026/260514.md",
-    "02 The Party/Property/Territories & Buildings/Tresendar Manor/Tresendar Manor - Gasthaus zum goldenen Elch.md",
-    "01 The Campaign/Journal/2025/251214.md",
-    "01 The Campaign/Journal/2026/260323.md",
+    "01 The Campaign/Journal/2025/250928.md",
+    "03 The World/Location/Temple/Eye of the All-father.md",
+    "03 The World/NPCs/Named NPCs/Orakel.md",
+    "03 The World/Location/Hof des Sturmkönigs.md",
+    "03 The World/Items/Magische Muschel.md",
+    "03 The World/Location/Fortress/Citadel Felbarr.md",
+    "02 The Party/Characters/Vondal Holderhek/Die Schriften des Vondal - Eine Enzyklopädie der Reiche.md",
+    "01 The Campaign/Journal/2026/260412.md",
     "01 The Campaign/Journal/2026/260308.md",
     "01 The Campaign/Journal/2026/260208.md",
-    "01 The Campaign/Journal/2026/260111.md",
-    "01 The Campaign/Journal/2025/250810.md",
-    "01 The Campaign/Journal/2025/250928.md",
-    "01 The Campaign/Journal/2025/250713.md",
-    "01 The Campaign/Journal/2025/251026.md",
-    "01 The Campaign/Journal/2025/250620.md",
-    "01 The Campaign/Journal/2025/250608.md",
-    "03 The World/Organizations/Jagddorffolk/Jagddorffolk.md",
-    "01 The Campaign/Journal/2025/250309.md",
-    "01 The Campaign/Journal/2025/250126.md",
-    "01 The Campaign/Journal/2025/250427.md",
-    "01 The Campaign/Journal/2024/241228.md",
+    "01 The Campaign/Journal/2026/260323.md",
     "01 The Campaign/Journal/2024/241124.md",
-    "03 The World/Cities/Sundabar/Sundabar.md",
-    "01 The Campaign/Journal/2024/241103.md",
-    "01 The Campaign/Journal/2024/241006.md",
-    "01 The Campaign/Journal/2024/240901.md",
-    "01 The Campaign/Journal/2024/240816.md",
+    "01 The Campaign/Journal/2024/241228.md",
+    "00 Mechanics/Abilities/Abilities.md",
+    "00 Mechanics/Spells/0. Cantrip/Chill Touch.md",
+    "00 Mechanics/Items/Cloak of Displacement.md",
+    "00 Mechanics/Items/Gem of Seeing.md",
+    "00 Mechanics/Items/Images/Armor of Resistance.jpeg",
+    "00 Mechanics/Alignment/Alignment.md",
+    "03 The World/Items/Vonindod.md",
+    "03 The World/Items/Golden Lion.md",
+    "03 The World/Location/Shop/Thalanthir’s Oddities.md",
+    "01 The Campaign/Quests_",
     "02 The Party/Characters/Vondal Holderhek/Vondal Holderhek Backstory.pdf",
     "02 The Party/Characters/Vondal Holderhek/Runenhort Waxsiegel.jpg",
     "03 The World/Weltkarte.jpg",
@@ -224,14 +282,12 @@
     "02 The Party/Character Sheets/simus.pdf",
     "02 The Party/Character Sheets/kriv.pdf",
     "03 The World/Location/Villages/Hawk's Nest",
-    "03 The World/Location/Villages",
     "03 The World/Monsters/Images/Orc.png",
     "02 The Party/Property/Territories & Buildings/Tresendar Manor/Images/Basement.jpg",
     "02 The Party/Characters/Kriv/Dra'kalthor-Clan.jpg",
     "03 The World/Monsters/Images/Aboleth.png",
     "03 The World/Monsters/Images/Thunder Biest Skeleton.jpg",
     "02 The Party/Property/Vehicles/Images/Wagen.jpg",
-    "Untitled.canvas",
-    "03 The World/Cities/Yartar/Images/Nahansicht.png"
+    "Untitled.canvas"
   ]
 }
