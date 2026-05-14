@@ -28,7 +28,7 @@
 			<name>Vondal Holderhek</name>
 			<gender>Male</gender>
 			<player-name>Steven</player-name>
-			<experience>58147</experience>
+			<experience>62827</experience>
 			<attacks>
 				<description><![CDATA[]]></description>
 				<attack identifier="77ba559c-7bc5-4aa4-97a6-349a2d782f7e" name="Quarterstaff" range="5 ft" attack="+4 vs AC" damage="1d6+0 bludgeoning" displayed="true" ability="Strength">
@@ -65,9 +65,9 @@
 			<additional-features><![CDATA[]]></additional-features>
 			<currency>
 				<copper>7</copper>
-				<silver>26</silver>
+				<silver>21</silver>
 				<electrum>0</electrum>
-				<gold>147</gold>
+				<gold>122</gold>
 				<platinum>0</platinum>
 				<equipment><![CDATA[]]></equipment>
 				<treasure><![CDATA[- Diamond (worth 50 GP)
@@ -128,7 +128,7 @@ Next spells to learn:
 - Geas (Level 5)
 
 Next items to buy:
-- Bag f Holding (uncommon)
+- Bag of Holding (uncommon)
 - Boots of Striding and Springing (uncommon)
 - Cloak of Protection (uncommon)
 
@@ -188,7 +188,7 @@ How to obtain hp for the Wizard:
 			<wisdom>10</wisdom>
 			<charisma>10</charisma>
 		</abilities>
-		<elements level-count="9" registered-count="58">
+		<elements level-count="9" registered-count="59">
 			<element type="Option" name="Feats" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" name="Multiclassing" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING">
 				<element type="Grants" name="Multiclass Spellcasting" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
@@ -322,6 +322,9 @@ How to obtain hp for the Wizard:
 			<element type="Level" name="9" id="ID_LEVEL_9" />
 			<element type="Item" name="Additional Spell, Identify" id="ID_PHB_INTERNAL_ITEM__SPELL_PROXY_SPELL_IDENTIFY">
 				<element type="Spell" name="Identify" id="ID_PHB_SPELL_IDENTIFY" />
+			</element>
+			<element type="Item" name="Additional Spell, Sending" id="ID_PHB_INTERNAL_ITEM__SPELL_PROXY_SPELL_SENDING">
+				<element type="Spell" name="Sending" id="ID_PHB_SPELL_SENDING" />
 			</element>
 		</elements>
 		<defenses>
@@ -507,7 +510,7 @@ How to obtain hp for the Wizard:
 				</details>
 			</item>
 			<item identifier="2300c7b8-620e-49c9-8877-3f14cd7cf87e" name="Additional Wizard Spell, Identify" id="ID_PHB_INTERNAL_ITEM_WIZARD_SPELL_PROXY_SPELL_IDENTIFY" hidden="true">
-				<details card="false">
+				<details card="true">
 					<name>
 					</name>
 					<notes>
@@ -543,8 +546,57 @@ How to obtain hp for the Wizard:
 					</notes>
 				</details>
 			</item>
+			<item identifier="2e1d51b3-b2d3-49dc-9e81-9b7e08ae7387" name="Spell Scroll, Water Breathing" id="ID_INTERNAL_MAGIC_ITEM_SPELL_SCROLL_WATER_BREATHING">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="b733aea6-f63c-47f6-a010-3f9a6b6a4724" name="Spell Scroll, Dispel Magic" id="ID_INTERNAL_MAGIC_ITEM_SPELL_SCROLL_DISPEL_MAGIC">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="97ea0b4e-792c-40a0-ad93-2da4fd1f1b1c" name="Spell Scroll, Lightning Bolt" id="ID_INTERNAL_MAGIC_ITEM_SPELL_SCROLL_LIGHTNING_BOLT">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="4e51ffff-f5bf-43b6-a844-b822f5d45c9b" name="Spell Scroll, Tongues" id="ID_INTERNAL_MAGIC_ITEM_SPELL_SCROLL_TONGUES">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="41a39239-73ec-429e-85ec-3015df1b176e" name="Potion of Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_HEALING">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="2ecc26eb-e4dd-4e09-bf47-0be301a16537" name="Additional Spell, Sending" id="ID_PHB_INTERNAL_ITEM__SPELL_PROXY_SPELL_SENDING" hidden="true">
+				<equipped>true</equipped>
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
 		</equipment>
-		<sum element-count="111">
+		<sum element-count="113">
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING" />
 			<element type="Grants" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
@@ -629,12 +681,14 @@ How to obtain hp for the Wizard:
 			<element type="Spell" id="ID_PHB_SPELL_ANIMATE_OBJECTS" />
 			<element type="Item" id="ID_PHB_INTERNAL_ITEM__SPELL_PROXY_SPELL_IDENTIFY" />
 			<element type="Spell" id="ID_PHB_SPELL_IDENTIFY" />
+			<element type="Weapon" id="ID_WOTC_PHB_WEAPON_DAGGER" />
 			<element type="Armor" id="ID_WOTC_ARMOR_MEDIUM_CHAIN_SHIRT" />
 			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_ARMOR_1" />
 			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_BOOTS_OF_STRIDING_AND_SPRINGING" />
 			<element type="Weapon" id="ID_WOTC_PHB_WEAPON_QUARTERSTAFF" />
 			<element type="Magic Item" id="ID_WOTC_LMOP_MAGIC_ITEM_STAFF_OF_DEFENSE" />
-			<element type="Weapon" id="ID_WOTC_PHB_WEAPON_DAGGER" />
+			<element type="Item" id="ID_PHB_INTERNAL_ITEM__SPELL_PROXY_SPELL_SENDING" />
+			<element type="Spell" id="ID_PHB_SPELL_SENDING" />
 			<element type="Class" id="ID_WOTC_PHB_CLASS_WIZARD" />
 			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_DAGGER" />
 			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_DART" />
@@ -669,7 +723,7 @@ How to obtain hp for the Wizard:
 				<spells>
 					<spell name="Chromatic Orb" level="1" id="ID_PHB_SPELL_CHROMATIC_ORB" prepared="true" always-prepared="true" known="true" />
 					<spell name="Find Familiar" level="1" id="ID_PHB_SPELL_FIND_FAMILIAR" prepared="true" always-prepared="true" known="true" />
-					<spell name="Shield" level="1" id="ID_PHB_SPELL_SHIELD" prepared="true" always-prepared="true" known="true" />
+					<spell name="Grease" level="1" id="ID_PHB_SPELL_GREASE" prepared="true" always-prepared="true" known="true" />
 					<spell name="Invisibility" level="2" id="ID_PHB_SPELL_INVISIBILITY" prepared="true" always-prepared="true" known="true" />
 					<spell name="Misty Step" level="2" id="ID_PHB_SPELL_MISTY_STEP" prepared="true" always-prepared="true" known="true" />
 					<spell name="Counterspell" level="3" id="ID_PHB_SPELL_COUNTERSPELL" prepared="true" always-prepared="true" known="true" />
@@ -680,10 +734,10 @@ How to obtain hp for the Wizard:
 					<spell name="Polymorph" level="4" id="ID_PHB_SPELL_POLYMORPH" prepared="true" always-prepared="true" known="true" />
 					<spell name="Wall of Force" level="5" id="ID_PHB_SPELL_WALL_OF_FORCE" prepared="true" always-prepared="true" known="true" />
 					<spell name="Disguise Self" level="1" id="ID_PHB_SPELL_DISGUISE_SELF" always-prepared="true" known="true" />
-					<spell name="Grease" level="1" id="ID_PHB_SPELL_GREASE" always-prepared="true" known="true" />
 					<spell name="Ice Knife" level="1" id="ID_XGTE_SPELL_ICE_KNIFE" always-prepared="true" known="true" />
 					<spell name="Illusory Script" level="1" id="ID_PHB_SPELL_ILLUSORY_SCRIPT" always-prepared="true" known="true" />
 					<spell name="Magic Missile" level="1" id="ID_PHB_SPELL_MAGIC_MISSILE" always-prepared="true" known="true" />
+					<spell name="Shield" level="1" id="ID_PHB_SPELL_SHIELD" always-prepared="true" known="true" />
 					<spell name="Cloud of Daggers" level="2" id="ID_PHB_SPELL_CLOUD_OF_DAGGERS" always-prepared="true" known="true" />
 					<spell name="Dragon’s Breath" level="2" id="ID_XGTE_SPELL_DRAGONS_BREATH" always-prepared="true" known="true" />
 					<spell name="Phantasmal Killer" level="4" id="ID_PHB_SPELL_PHANTASMAL_KILLER" always-prepared="true" known="true" />
@@ -693,6 +747,7 @@ How to obtain hp for the Wizard:
 			</spellcasting>
 			<additional>
 				<spell name="Identify" level="1" id="ID_PHB_SPELL_IDENTIFY" source="Additional Spell, Identify" />
+				<spell name="Sending" level="3" id="ID_PHB_SPELL_SENDING" source="Additional Spell, Sending" />
 			</additional>
 		</magic>
 	</build>

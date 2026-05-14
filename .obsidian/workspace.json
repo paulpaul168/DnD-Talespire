@@ -4,97 +4,105 @@
     "type": "split",
     "children": [
       {
-        "id": "ae76788abbdd0504",
+        "id": "6d13ab6581fcefae",
         "type": "tabs",
         "children": [
           {
-            "id": "edd48ec75536e434",
+            "id": "f51ef3812e35ddf5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 The World/Organizations/Yagfolk/Yagfolk.md",
+                "file": "01 The Campaign/Journal/2026/260514.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Yagfolk"
+              "title": "260514"
             }
           },
           {
-            "id": "011d57150a2a476a",
+            "id": "126be7da26776a4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 The World/Items/Magische Muschel.md",
+                "file": "02 The Party/Characters/Vondal Holderhek/Enduring Spellbook.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magische Muschel"
+              "title": "Enduring Spellbook"
             }
           },
           {
-            "id": "6036e25d9a7831fb",
+            "id": "c17ef4bd232e19fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 The Campaign/Quests_/Zerstörung von Ironslag.md",
+                "file": "02 The Party/Party Inventory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zerstörung von Ironslag"
+              "title": "Party Inventory"
             }
           },
           {
-            "id": "53b9affd03594a19",
+            "id": "d39f15a6edf1cd4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 The Campaign/Journal/2025/250928.md",
+                "file": "01 The Campaign/Journal/2025/251214.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "250928"
+              "title": "251214"
             }
           },
           {
-            "id": "e756a3b826b8778f",
+            "id": "b47627a55ae46ffe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 The World/Location/Hof des Sturmkönigs.md",
+                "file": "03 The World/NPCs/Named NPCs/Riesen/Imrid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hof des Sturmkönigs"
+              "title": "Imrid"
             }
-          }
-        ]
-      },
-      {
-        "id": "a53ab053b7959b6c",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "0c404e05ecb8a955",
+            "id": "c0f2938e1e7b425a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 The Campaign/Journal/The Chronicles.md",
+                "file": "01 The Campaign/Quests_/Hauptquest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Chronicles"
+              "title": "Hauptquest"
+            }
+          },
+          {
+            "id": "0fa38c4915191367",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 The World/Items/Münze.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Münze"
             }
           }
         ]
@@ -120,7 +128,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Dateiexplorer"
             }
           },
           {
@@ -129,7 +137,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "muschel",
+                "query": "drache",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,7 +145,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Suchen"
             }
           },
           {
@@ -154,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 321.5
   },
   "right": {
     "id": "792ba0162fef7a86",
@@ -231,44 +239,52 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false
     }
   },
-  "active": "6d4479cdeb0fef2d",
+  "active": "f51ef3812e35ddf5",
   "lastOpenFiles": [
-    "03 The World/Organizations/Lai'quendi/Lai'quendi.md",
-    "03 The World/Organizations/Yagfolk/Yagfolk.md",
-    "01 The Campaign/Quests_/Hauptquest.md",
-    "01 The Campaign/Quests_/Zerstörung von Ironslag.md",
-    "01 The Campaign/Journal/The Chronicles.md",
-    "01 The Campaign/Journal/2025/250928.md",
-    "03 The World/Location/Temple/Eye of the All-father.md",
-    "03 The World/NPCs/Named NPCs/Orakel.md",
-    "03 The World/Location/Hof des Sturmkönigs.md",
-    "03 The World/Items/Magische Muschel.md",
-    "03 The World/Location/Fortress/Citadel Felbarr.md",
-    "02 The Party/Characters/Vondal Holderhek/Die Schriften des Vondal - Eine Enzyklopädie der Reiche.md",
+    "02 The Party/Party Inventory.md",
+    "01 The Campaign/Journal/2026/260514.md",
+    "02 The Party/Characters/Vondal Holderhek/Enduring Spellbook.md",
+    "01 The Campaign/Journal/2025/251214.md",
     "01 The Campaign/Journal/2026/260412.md",
-    "01 The Campaign/Journal/2026/260308.md",
     "01 The Campaign/Journal/2026/260208.md",
+    "01 The Campaign/Journal/2026/260308.md",
     "01 The Campaign/Journal/2026/260323.md",
-    "01 The Campaign/Journal/2024/241124.md",
-    "01 The Campaign/Journal/2024/241228.md",
-    "00 Mechanics/Abilities/Abilities.md",
-    "00 Mechanics/Spells/0. Cantrip/Chill Touch.md",
-    "00 Mechanics/Items/Cloak of Displacement.md",
-    "00 Mechanics/Items/Gem of Seeing.md",
+    "03 The World/NPCs/Named NPCs/Tharivol Silverbane.md",
+    "01 The Campaign/Journal/The Chronicles.md",
+    "03 The World/Items/Münze.md",
+    "01 The Campaign/Quests_/Hauptquest.md",
+    "03 The World/NPCs/Named NPCs/Sandyse Thunderquill.md",
+    "03 The World/NPCs/Named NPCs/Riesen/Imrid.md",
+    "03 The World/Items/Magische Muschel.md",
+    "03 The World/NPCs/Named NPCs/Riesen/Harshnag.md",
+    "01 The Campaign/Journal/2026/260111.md",
+    "01 The Campaign/Journal/2025/251026.md",
+    "01 The Campaign/Journal/2025/250928.md",
+    "03 The World/Cities/Saerloon/Saerloon.md",
+    "02 The Party/Characters/Vondal Holderhek/Die Schriften des Vondal - Eine Enzyklopädie der Reiche/Karten/Saerloon.jpg",
+    "02 The Party/Characters/Vondal Holderhek/Die Schriften des Vondal - Eine Enzyklopädie der Reiche/Karten",
+    "03 The World/Monsters/Giant/Storm Giant.md",
+    "02 The Party/Characters/Vondal Holderhek/Die Schriften des Vondal - Eine Enzyklopädie der Reiche/Die Schriften des Vondal - Eine Enzyklopädie der Reiche.md",
+    "03 The World/NPCs/Named NPCs/Riesen/Königin Neri.md",
+    "03 The World/NPCs/Named NPCs/Riesen/König Hekaton.md",
+    "03 The World/Cities/Phandalin/Phandalin.md",
+    "03 The World/Organizations/Harper/Harper.md",
+    "03 The World/Cities/Saerloon",
+    "03 The World/NPCs/Named NPCs/Riesen",
+    "02 The Party/Characters/Vondal Holderhek/Die Schriften des Vondal - Eine Enzyklopädie der Reiche/Karten/Waterdeep.jpg",
+    "02 The Party/Characters/Vondal Holderhek/Die Schriften des Vondal - Eine Enzyklopädie der Reiche/Karten/Baldours Gate.jpg",
+    "02 The Party/Characters/Vondal Holderhek/Die Schriften des Vondal - Eine Enzyklopädie der Reiche",
+    "03 The World/Cities/Baldours Gate",
     "00 Mechanics/Items/Images/Armor of Resistance.jpeg",
-    "00 Mechanics/Alignment/Alignment.md",
-    "03 The World/Items/Vonindod.md",
-    "03 The World/Items/Golden Lion.md",
-    "03 The World/Location/Shop/Thalanthir’s Oddities.md",
     "01 The Campaign/Quests_",
     "02 The Party/Characters/Vondal Holderhek/Vondal Holderhek Backstory.pdf",
     "02 The Party/Characters/Vondal Holderhek/Runenhort Waxsiegel.jpg",
@@ -276,18 +292,10 @@
     "03 The World/Cities/Waterdeep",
     "02 The Party/Character Sheets/amber ironfist.pdf",
     "02 The Party/Character Sheets/thokk.pdf",
-    "02 The Party/Character Sheets/vondal holderhek.pdf",
-    "02 The Party/Character Sheets/ander thorngage.pdf",
     "02 The Party/Character Sheets/Ander Thorngage Bild.jpg",
-    "02 The Party/Character Sheets/simus.pdf",
-    "02 The Party/Character Sheets/kriv.pdf",
-    "03 The World/Location/Villages/Hawk's Nest",
     "03 The World/Monsters/Images/Orc.png",
     "02 The Party/Property/Territories & Buildings/Tresendar Manor/Images/Basement.jpg",
     "02 The Party/Characters/Kriv/Dra'kalthor-Clan.jpg",
-    "03 The World/Monsters/Images/Aboleth.png",
-    "03 The World/Monsters/Images/Thunder Biest Skeleton.jpg",
-    "02 The Party/Property/Vehicles/Images/Wagen.jpg",
     "Untitled.canvas"
   ]
 }

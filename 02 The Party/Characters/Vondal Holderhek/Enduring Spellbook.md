@@ -18,6 +18,7 @@
 | 3     | Fireball           |             |
 | 3     | Hypnotic Pattern   |             |
 | 3     | Major Image        |             |
+| 3     | Sending            | x           |
 | 4     | Banishment         |             |
 | 4     | Phantasmal Killer  |             |
 | 4     | Polymorph          |             |

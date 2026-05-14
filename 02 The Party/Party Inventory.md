@@ -5,7 +5,7 @@
 
 | Copper | Silver | Electron | Gold  | Platin |
 | ------ | ------ | -------- | ----- | ------ |
-| 2      | 317    | 20       | 575   | 0      |
+| 2      | 317    | 20       | 12704 | 0      |
 | 10->S  | 10->G  | 5->G     | 10->P |        |
 
 ---
@@ -25,12 +25,7 @@
 
 ---
 ## Scrolls
-- 1x Dispel Magic
 - 1x Magic Weapon
-- 1x Sending
-- 1x Toungs
-- 1x Scroll of Water Breathing
-- 1x [Scroll of Lightning Bolt (lvl 3)](https://www.dndbeyond.com/spells/2167-lightning-bolt)
 
 ---
 ## Quest items

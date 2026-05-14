@@ -158,6 +158,13 @@ Mit "By Surtur's flame, I command these doors to close!" oder "By Surtur's flame
 ### Spine of the World
 Unter den Frostbergen schlummern Adern von Silber und Mithral, unberührt seit dem Fall Ostorias. In den nördlichen Tiefen der Spine of the World liegt Reichtum für jene, die den Mut und die Werkzeuge haben. Keiner der jetzt Lebenden ist dies bekannt.
 
+### [[Baldours Gate]]
+Karte: [[Baldours Gate.jpg]]
+Auf dem Markt *The Wide* gibt es Gegenstände aus ganz Faerun
+
+### [[Waterdeep]]
+Karte: [[Waterdeep.jpg]]
+
 ## Personen
 ### Old Snarl / Klauth
 Klauth ist ein sehr mächtiger jahrtausendealter Drache. Unter den Humanoiden ist er als Old Snar bekannt. Alle Drachen hassen Klauth.
