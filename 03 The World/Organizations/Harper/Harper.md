@@ -8,19 +8,7 @@ aliases:
 **Name**: Harper
 **Type**: Robin Hood Gilde
 
-**Overview**
-
-**Headquarters**
-
-**Goals & Motivations**
-
-**Known Members**
-
-**Allies**
-
-**Enemies**
-
-**History**
+Sie gelten grundsätzlich als die Guten, sie sind aber nicht immer gesetzestreu. Sie sind geheimnisvoll. Sie kämpfen u.a. gegen Tyranen.
 
 **Notes**
 Sie verfügen über Teleportationspunkte in:

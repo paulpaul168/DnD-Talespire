@@ -1,11 +1,16 @@
 ---
 
 ---
-## Kassa
-
+## Tresor
 | Copper | Silver | Electron | Gold  | Platin |
 | ------ | ------ | -------- | ----- | ------ |
-| 2      | 317    | 20       | 12704 | 0      |
+| 0      | 0      | 0        | 1010  | 0      |
+| 10->S  | 10->G  | 5->G     | 10->P |        |
+
+## Gemeinschaftskonto
+| Copper | Silver | Electron | Gold  | Platin |
+| ------ | ------ | -------- | ----- | ------ |
+| 2      | 317    | 20       | 7929  | 0      |
 | 10->S  | 10->G  | 5->G     | 10->P |        |
 
 ---
@@ -43,6 +48,8 @@
 
 ---
 ## Valuable items
+- Oktopus Rapier mit Diamanten (2500 GP)
+- 9x Edelsteine (à 50 GP)
 - 2x Salamanderschuppen (every 4 à 150 GP)
 	- Aus Salamderschuppen kann ein Umhang der Feuerresistenz angefertigt werden
 - Skelett Knochen

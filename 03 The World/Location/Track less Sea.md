@@ -1,0 +1,2 @@
+- Ist im Südwesten der Karten
+- Westlich von [[Myratma]]

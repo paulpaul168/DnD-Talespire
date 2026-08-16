@@ -165,6 +165,9 @@ Auf dem Markt *The Wide* gibt es Gegenstände aus ganz Faerun
 ### [[Waterdeep]]
 Karte: [[Waterdeep.jpg]]
 
+### [[Yartar]]
+Karte: [[Yartar.jpg]]
+- [[Lord Dryland]] betreibt ein Casinoschiff
 ## Personen
 ### Old Snarl / Klauth
 Klauth ist ein sehr mächtiger jahrtausendealter Drache. Unter den Humanoiden ist er als Old Snar bekannt. Alle Drachen hassen Klauth.

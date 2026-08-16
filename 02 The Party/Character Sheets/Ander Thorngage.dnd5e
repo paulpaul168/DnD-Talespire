@@ -10,11 +10,11 @@
 	<display-properties favorite="false">
 		<name>Ander Thorngage</name>
 		<race>High Elf</race>
-		<class>Paladin (8) / Sorcerer (1)</class>
+		<class>Paladin (9) / Sorcerer (1)</class>
 		<archetype>
 		</archetype>
 		<background>Acolyte</background>
-		<level>9</level>
+		<level>10</level>
 		<portrait>
 			<companion>
 			</companion>
@@ -28,7 +28,7 @@
 			<name>Ander Thorngage</name>
 			<gender>Male</gender>
 			<player-name>Johannes Blab</player-name>
-			<experience>62827</experience>
+			<experience>68485</experience>
 			<attacks>
 				<description><![CDATA[]]></description>
 				<attack identifier="69db4fc0-d7c5-494d-9634-42be79963bac" name="Longsword +1" range="5 ft" attack="+9 vs AC" damage="1d8+5 slashing" displayed="true" ability="Strength">
@@ -67,12 +67,12 @@ You might also have ties to a specific temple dedicated to your chosen deity or 
 			<additional-features><![CDATA[Gottheit: 	Catgirl
 Titel: 		Treant-Schlächter
 
-Sprache Giant von Vondal lernen: 63/125]]></additional-features>
+Sprache Giant von Vondal lernen: 91/125]]></additional-features>
 			<currency>
 				<copper>9</copper>
 				<silver>1</silver>
 				<electrum>0</electrum>
-				<gold>226</gold>
+				<gold>91</gold>
 				<platinum>0</platinum>
 				<equipment><![CDATA[]]></equipment>
 				<treasure><![CDATA[Mineneinnahmen: 300 - 1500 Gold/Monat
@@ -105,7 +105,7 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 3 Wasserviolen
 6 grüner Fetzen Stoff
 1 braunerdfarbener Umhang (zerfetzt, blutig)
-1 bläulicher Umhang mir rotem Innenfutter (Neznar, die schwarze Spinne) (angezogen)
+1 bläulicher Umhang mir rotem Innenfutter (Neznar, die schwarze Spinne)
 21 Heilige Schriften (Shield of Faith)
 1 kleiner Silberspiegel (Sanctuary)
 1 riesiger, zerfetzter Wollumhang (Frostriese)
@@ -148,12 +148,12 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 			<wisdom>12</wisdom>
 			<charisma>14</charisma>
 		</abilities>
-		<elements level-count="9" registered-count="50">
+		<elements level-count="10" registered-count="51">
 			<element type="Option" name="Feats" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" name="Multiclassing" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING">
 				<element type="Grants" name="Multiclass Spellcasting" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
 			</element>
-			<element type="Level" name="1" id="ID_LEVEL_1" rndhp="10,9,5,10,7,7,9,7,2,1,5,5,5,2,1,6,8,3,6,8">
+			<element type="Level" name="1" id="ID_LEVEL_1" rndhp="10,9,5,10,7,7,9,7,9,1,5,5,5,2,1,6,8,3,6,8">
 				<element type="Race" name="Race" requiredLevel="1" checksum="1597ef76" registered="ID_RACE_ELF">
 					<element type="Size" name="Medium" id="ID_SIZE_MEDIUM" />
 					<element type="Vision" name="Darkvision" id="ID_VISION_DARKVISION" />
@@ -277,6 +277,8 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 								<element type="Spell" name="Sanctuary" id="ID_PHB_SPELL_SANCTUARY" />
 								<element type="Spell" name="Lesser Restoration" id="ID_PHB_SPELL_LESSER_RESTORATION" />
 								<element type="Spell" name="Zone of Truth" id="ID_PHB_SPELL_ZONE_OF_TRUTH" />
+								<element type="Spell" name="Beacon of Hope" id="ID_PHB_SPELL_BEACON_OF_HOPE" />
+								<element type="Spell" name="Dispel Magic" id="ID_PHB_SPELL_DISPEL_MAGIC" />
 							</element>
 							<element type="Archetype Feature" name="Channel Divinity" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PALADIN_DEVOTION_CHANNEL_DIVINITY">
 								<element type="Archetype Feature" name="Channel Divinity: Sacred Weapon" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PALADIN_CHANNEL_DIVINITY_SACRED_WEAPON" />
@@ -349,6 +351,7 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 				</element>
 				<element type="Grants" name="Multiclassing (Level 9)" id="ID_INTERNAL_MULTICLASS_LEVEL_9" />
 			</element>
+			<element type="Level" name="10" id="ID_LEVEL_10" />
 			<element type="Magic Item" name="Ring of Resistance, Fire" id="ID_WOTC_DMG_MAGIC_ITEM_RING_OF_RESISTANCE_FIRE">
 				<element type="Condition" name="Resistance (Fire)" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_FIRE" />
 			</element>
@@ -357,11 +360,11 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 				<element type="Vision" name="Darkvision" id="ID_VISION_DARKVISION" />
 				<element type="Language" name="Dwarvish" id="ID_LANGUAGE_DWARVISH" />
 			</element>
-			<element type="Armor" name="Plate" id="ID_WOTC_ARMOR_HEAVY_PLATE">
-				<element type="Grants" name="Stealth Disadvantage" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
-			</element>
 			<element type="Item" name="Additional Language, Primordial" id="ID_PHB_INTERNAL_ITEM_LANGUAGE_PROXY_LANGUAGE_PRIMORDIAL">
 				<element type="Language" name="Primordial" id="ID_LANGUAGE_PRIMORDIAL" />
+			</element>
+			<element type="Armor" name="Plate" id="ID_WOTC_ARMOR_HEAVY_PLATE">
+				<element type="Grants" name="Stealth Disadvantage" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
 			</element>
 		</elements>
 		<defenses>
@@ -451,7 +454,7 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 					</notes>
 				</details>
 			</item>
-			<item identifier="756dabfa-96d4-4ba9-88b6-fff0062e38ca" name="Rations (1 day)" id="ID_WOTC_PHB_ITEM_RATIONS_1DAY" amount="20">
+			<item identifier="756dabfa-96d4-4ba9-88b6-fff0062e38ca" name="Rations (1 day)" id="ID_WOTC_PHB_ITEM_RATIONS_1DAY" amount="11">
 				<details card="true">
 					<name>
 					</name>
@@ -491,7 +494,8 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 					</notes>
 				</details>
 			</item>
-			<item identifier="69db4fc0-d7c5-494d-9634-42be79963bac" name="Longsword" id="ID_WOTC_PHB_WEAPON_LONGSWORD">
+			<item identifier="69db4fc0-d7c5-494d-9634-42be79963bac" name="Longsword" id="ID_WOTC_PHB_WEAPON_LONGSWORD" sidebar="true">
+				<equipped location="Primary Hand">true</equipped>
 				<items>
 					<adorner name="Weapon, +1" id="ID_WOTC_DMG_MAGIC_ITEM_WEAPON_1" />
 				</items>
@@ -536,7 +540,7 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 					</notes>
 				</details>
 			</item>
-			<item identifier="e9621c48-5cf3-4952-8490-7ecebba9f146" name="Potion of Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_HEALING" amount="6">
+			<item identifier="e9621c48-5cf3-4952-8490-7ecebba9f146" name="Potion of Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_HEALING" amount="5">
 				<details card="true">
 					<name>
 					</name>
@@ -544,8 +548,7 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 					</notes>
 				</details>
 			</item>
-			<item identifier="0e3f1584-45bc-45fa-95f2-a07908ab290d" name="Longsword" id="ID_WOTC_PHB_WEAPON_LONGSWORD" sidebar="true">
-				<equipped location="Primary Hand">true</equipped>
+			<item identifier="0e3f1584-45bc-45fa-95f2-a07908ab290d" name="Longsword" id="ID_WOTC_PHB_WEAPON_LONGSWORD">
 				<items>
 					<adorner name="Giant Slayer" id="ID_WOTC_DMG_MAGIC_ITEM_GIANT_SLAYER" />
 				</items>
@@ -675,7 +678,7 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 				</details>
 			</item>
 		</equipment>
-		<sum element-count="175">
+		<sum element-count="178">
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING" />
 			<element type="Grants" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
@@ -732,8 +735,6 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 			<element type="Spell" id="ID_PHB_SPELL_PRESTIDIGITATION" />
 			<element type="Spell" id="ID_PHB_SPELL_SHIELD" />
 			<element type="Spell" id="ID_PHB_SPELL_EXPEDITIOUS_RETREAT" />
-			<element type="Weapon" id="ID_WOTC_PHB_WEAPON_LONGSWORD" />
-			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_GIANT_SLAYER" />
 			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_RING_OF_RESISTANCE_FIRE" />
 			<element type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_FIRE" />
 			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_RING_OF_PROTECTION" />
@@ -742,14 +743,17 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 			<element type="Vision" id="ID_VISION_DARKVISION" />
 			<element type="Language" id="ID_LANGUAGE_DWARVISH" />
 			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_CLOAK_OF_DISPLACEMENT" />
+			<element type="Item" id="ID_PHB_INTERNAL_ITEM_LANGUAGE_PROXY_LANGUAGE_PRIMORDIAL" />
+			<element type="Language" id="ID_LANGUAGE_PRIMORDIAL" />
+			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_AMULET_OF_HEALTH" />
+			<element type="Level" id="ID_LEVEL_10" />
+			<element type="Weapon" id="ID_WOTC_PHB_WEAPON_LONGSWORD" />
+			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_WEAPON_1" />
 			<element type="Armor" id="ID_WOTC_ARMOR_HEAVY_PLATE" />
 			<element type="Grants" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
 			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_ARMOR_2" />
-			<element type="Item" id="ID_PHB_INTERNAL_ITEM_LANGUAGE_PROXY_LANGUAGE_PRIMORDIAL" />
-			<element type="Language" id="ID_LANGUAGE_PRIMORDIAL" />
 			<element type="Armor" id="ID_WOTC_GEAR_SHIELD" />
 			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_SHIELD_1" />
-			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_AMULET_OF_HEALTH" />
 			<element type="Class" id="ID_WOTC_PHB_CLASS_PALADIN" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LIGHT_ARMOR" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_PADDED" />
@@ -835,6 +839,8 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 			<element type="Spell" id="ID_PHB_SPELL_SANCTUARY" />
 			<element type="Spell" id="ID_PHB_SPELL_LESSER_RESTORATION" />
 			<element type="Spell" id="ID_PHB_SPELL_ZONE_OF_TRUTH" />
+			<element type="Spell" id="ID_PHB_SPELL_BEACON_OF_HOPE" />
+			<element type="Spell" id="ID_PHB_SPELL_DISPEL_MAGIC" />
 			<element type="Archetype Feature" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PALADIN_DEVOTION_CHANNEL_DIVINITY" />
 			<element type="Archetype Feature" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PALADIN_CHANNEL_DIVINITY_SACRED_WEAPON" />
 			<element type="Archetype Feature" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PALADIN_CHANNEL_DIVINITY_TURN_THE_UNHOLY" />
@@ -854,7 +860,7 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 		</sum>
 		<magic multiclass="true" level="5">
 			<spellcasting name="Paladin" ability="Charisma" attack="6" dc="14" source="ID_WOTC_PHB_CLASS_FEATURE_PALADIN_SPELLCASTING">
-				<slots s1="4" s2="3" s3="0" s4="0" s5="0" s6="0" s7="0" s8="0" s9="0" />
+				<slots s1="4" s2="3" s3="2" s4="0" s5="0" s6="0" s7="0" s8="0" s9="0" />
 				<cantrips />
 				<spells>
 					<spell name="Compelled Duel" level="1" id="ID_PHB_SPELL_COMPELLED_DUEL" prepared="true" />
@@ -864,9 +870,11 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 					<spell name="Sanctuary" level="1" id="ID_PHB_SPELL_SANCTUARY" prepared="true" always-prepared="true" known="true" />
 					<spell name="Shield of Faith" level="1" id="ID_PHB_SPELL_SHIELD_OF_FAITH" prepared="true" />
 					<spell name="Aid" level="2" id="ID_PHB_SPELL_AID" prepared="true" />
-					<spell name="Find Steed" level="2" id="ID_PHB_SPELL_FIND_STEED" prepared="true" />
 					<spell name="Lesser Restoration" level="2" id="ID_PHB_SPELL_LESSER_RESTORATION" prepared="true" always-prepared="true" known="true" />
 					<spell name="Zone of Truth" level="2" id="ID_PHB_SPELL_ZONE_OF_TRUTH" prepared="true" always-prepared="true" known="true" />
+					<spell name="Aura of Vitality" level="3" id="ID_PHB_SPELL_AURA_OF_VITALITY" prepared="true" />
+					<spell name="Beacon of Hope" level="3" id="ID_PHB_SPELL_BEACON_OF_HOPE" prepared="true" always-prepared="true" known="true" />
+					<spell name="Dispel Magic" level="3" id="ID_PHB_SPELL_DISPEL_MAGIC" prepared="true" always-prepared="true" known="true" />
 					<spell name="Bless" level="1" id="ID_PHB_SPELL_BLESS" />
 					<spell name="Ceremony" level="1" id="ID_XGTE_SPELL_CEREMONY" />
 					<spell name="Command" level="1" id="ID_PHB_SPELL_COMMAND" />
@@ -879,9 +887,18 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 					<spell name="Thunderous Smite" level="1" id="ID_PHB_SPELL_THUNDEROUS_SMITE" />
 					<spell name="Wrathful Smite" level="1" id="ID_PHB_SPELL_WRATHFUL_SMITE" />
 					<spell name="Branding Smite" level="2" id="ID_PHB_SPELL_BRANDING_SMITE" />
+					<spell name="Find Steed" level="2" id="ID_PHB_SPELL_FIND_STEED" />
 					<spell name="Locate Object" level="2" id="ID_PHB_SPELL_LOCATE_OBJECT" />
 					<spell name="Magic Weapon" level="2" id="ID_PHB_SPELL_MAGIC_WEAPON" />
 					<spell name="Protection from Poison" level="2" id="ID_PHB_SPELL_PROTECTION_FROM_POISON" />
+					<spell name="Blinding Smite" level="3" id="ID_PHB_SPELL_BLINDING_SMITE" />
+					<spell name="Create Food and Water" level="3" id="ID_PHB_SPELL_CREATE_FOOD_AND_WATER" />
+					<spell name="Crusader’s Mantle" level="3" id="ID_PHB_SPELL_CRUSADERS_MANTLE" />
+					<spell name="Daylight" level="3" id="ID_PHB_SPELL_DAYLIGHT" />
+					<spell name="Elemental Weapon" level="3" id="ID_PHB_SPELL_ELEMENTAL_WEAPON" />
+					<spell name="Magic Circle" level="3" id="ID_PHB_SPELL_MAGIC_CIRCLE" />
+					<spell name="Remove Curse" level="3" id="ID_PHB_SPELL_REMOVE_CURSE" />
+					<spell name="Revivify" level="3" id="ID_PHB_SPELL_REVIVIFY" />
 				</spells>
 			</spellcasting>
 			<spellcasting name="Sorcerer" ability="Charisma" attack="6" dc="14" source="ID_WOTC_PHB_CLASS_FEATURE_SORCERER_SPELLCASTING_SORCERER">

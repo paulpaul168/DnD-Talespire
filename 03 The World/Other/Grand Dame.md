@@ -1,0 +1,2 @@
+- Casinoschiff in [[Yartar]]
+- Gehört [[Lord Dryland]]

@@ -14,7 +14,7 @@
 		<archetype>
 		</archetype>
 		<background>Sage</background>
-		<level>9</level>
+		<level>10</level>
 		<portrait>
 			<companion>
 			</companion>
@@ -28,7 +28,7 @@
 			<name>Vondal Holderhek</name>
 			<gender>Male</gender>
 			<player-name>Steven</player-name>
-			<experience>62827</experience>
+			<experience>68485</experience>
 			<attacks>
 				<description><![CDATA[]]></description>
 				<attack identifier="77ba559c-7bc5-4aa4-97a6-349a2d782f7e" name="Quarterstaff" range="5 ft" attack="+4 vs AC" damage="1d6+0 bludgeoning" displayed="true" ability="Strength">
@@ -67,7 +67,7 @@
 				<copper>7</copper>
 				<silver>21</silver>
 				<electrum>0</electrum>
-				<gold>122</gold>
+				<gold>103</gold>
 				<platinum>0</platinum>
 				<equipment><![CDATA[]]></equipment>
 				<treasure><![CDATA[- Diamond (worth 50 GP)
@@ -107,10 +107,7 @@
 -- 5. Cloud Kill]]></treasure>
 			</currency>
 			<notes>
-				<note column="left">Language learning progress:
-- Elvish: 95/125 (letztes Update 306)
-
-Must equip spells (Available spell slots):
+				<note column="left">Must equip spells (Available spell slots):
 - Chromatic Orb (Level 1)
 - Magic Missile (Level 1)
 - Shield (Level 1)
@@ -131,6 +128,7 @@ Next items to buy:
 - Bag of Holding (uncommon)
 - Boots of Striding and Springing (uncommon)
 - Cloak of Protection (uncommon)
+- Ring of Swimming (uncommon)
 
 ---
 
@@ -150,7 +148,7 @@ How to obtain hp for the Wizard:
 -- 4. Greater Invisibility
 -- 5. Cloud Kill
 
-- Spell Book 2:
+- Spell Book 2 (im Vault in unserer Taverne):
 -- 1. Mage Armor
 -- 1. Magic Missile
 -- 1. Shield
@@ -188,7 +186,7 @@ How to obtain hp for the Wizard:
 			<wisdom>10</wisdom>
 			<charisma>10</charisma>
 		</abilities>
-		<elements level-count="9" registered-count="59">
+		<elements level-count="10" registered-count="67">
 			<element type="Option" name="Feats" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" name="Multiclassing" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING">
 				<element type="Grants" name="Multiclass Spellcasting" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
@@ -247,6 +245,7 @@ How to obtain hp for the Wizard:
 						<element type="Spell" name="Cantrip (Wizard)" requiredLevel="1" number="2" checksum="90360626" registered="ID_XGTE_SPELL_TOLL_THE_DEAD" />
 						<element type="Spell" name="Cantrip (Wizard)" requiredLevel="1" number="3" checksum="11136301" registered="ID_PHB_SPELL_MAGE_HAND" />
 						<element type="Spell" name="Cantrip (Wizard)" requiredLevel="4" checksum="961e75fb" registered="ID_PHB_SPELL_PRESTIDIGITATION" />
+						<element type="Spell" name="Cantrip (Wizard)" requiredLevel="10" checksum="f787f196" registered="ID_PHB_SPELL_MESSAGE" />
 						<element type="Spell" name="Spellbook (Wizard)" requiredLevel="1" number="1" checksum="cdef01cb" registered="ID_PHB_SPELL_FIND_FAMILIAR" />
 						<element type="Spell" name="Spellbook (Wizard)" requiredLevel="1" number="2" checksum="95f1a8e3" registered="ID_PHB_SPELL_SHIELD" />
 						<element type="Spell" name="Spellbook (Wizard)" requiredLevel="1" number="3" checksum="14d4cdc4" registered="ID_PHB_SPELL_ILLUSORY_SCRIPT" />
@@ -269,6 +268,8 @@ How to obtain hp for the Wizard:
 						<element type="Spell" name="Spellbook (Wizard)" requiredLevel="8" number="2" checksum="84edf2cd" registered="ID_XGTE_SPELL_SICKENING_RADIANCE" />
 						<element type="Spell" name="Spellbook (Wizard)" requiredLevel="9" number="1" checksum="59039227" registered="ID_PHB_SPELL_WALL_OF_FORCE" />
 						<element type="Spell" name="Spellbook (Wizard)" requiredLevel="9" number="2" checksum="277bda81" registered="ID_PHB_SPELL_ANIMATE_OBJECTS" />
+						<element type="Spell" name="Spellbook (Wizard)" requiredLevel="10" number="1" checksum="edba9047" registered="ID_PHB_SPELL_TELEKINESIS" />
+						<element type="Spell" name="Spellbook (Wizard)" requiredLevel="10" number="2" checksum="93c2d8e1" registered="ID_PHB_SPELL_ARCANE_EYE" />
 						<element type="Grants" name="Ritual Casting" id="ID_INTERNAL_RITUAL_CASTING" />
 						<element type="Proficiency" name="Spellcasting Focus Group (Arcane Focus)" id="ID_INTERNAL_PROFICIENCY_SPELLFOCUS_GROUP_ARCANE_FOCUS" />
 					</element>
@@ -279,6 +280,7 @@ How to obtain hp for the Wizard:
 							<element type="Archetype Feature" name="Divination Savant" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_WIZARD_DIVINATION_DIVINATION_SAVANT" />
 							<element type="Archetype Feature" name="Portent" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_WIZARD_DIVINATION_PORTENT" />
 							<element type="Archetype Feature" name="Expert Divination" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_WIZARD_DIVINATION_EXPERT_DIVINATION" />
+							<element type="Archetype Feature" name="The Third Eye" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_WIZARD_DIVINATION_THE_THIRD_EYE" />
 						</element>
 					</element>
 					<element type="Class Feature" name="Ability Score Improvement" id="ID_WOTC_PHB_CLASS_FEATURE_WIZARD_ABILITYSCOREIMPROVEMENT_WIZARD">
@@ -320,15 +322,33 @@ How to obtain hp for the Wizard:
 			<element type="Level" name="7" id="ID_LEVEL_7" />
 			<element type="Level" name="8" id="ID_LEVEL_8" />
 			<element type="Level" name="9" id="ID_LEVEL_9" />
+			<element type="Level" name="10" id="ID_LEVEL_10" />
 			<element type="Item" name="Additional Spell, Identify" id="ID_PHB_INTERNAL_ITEM__SPELL_PROXY_SPELL_IDENTIFY">
 				<element type="Spell" name="Identify" id="ID_PHB_SPELL_IDENTIFY" />
 			</element>
 			<element type="Item" name="Additional Spell, Sending" id="ID_PHB_INTERNAL_ITEM__SPELL_PROXY_SPELL_SENDING">
 				<element type="Spell" name="Sending" id="ID_PHB_SPELL_SENDING" />
 			</element>
+			<element type="Item" name="Additional Spell, Fly" id="ID_PHB_INTERNAL_ITEM__SPELL_PROXY_SPELL_FLY">
+				<element type="Spell" name="Fly" id="ID_PHB_SPELL_FLY" />
+			</element>
+			<element type="Item" name="Additional Spell, Greater Invisibility" id="ID_PHB_INTERNAL_ITEM__SPELL_PROXY_SPELL_GREATER_INVISIBILITY">
+				<element type="Spell" name="Greater Invisibility" id="ID_PHB_SPELL_GREATER_INVISIBILITY" />
+			</element>
+			<element type="Item" name="Additional Language, Elvish" id="ID_PHB_INTERNAL_ITEM_LANGUAGE_PROXY_LANGUAGE_ELVISH">
+				<element type="Language" name="Elvish" id="ID_LANGUAGE_ELVISH" />
+			</element>
+			<element type="Item" name="Additional Spell, Dimension Door" id="ID_PHB_INTERNAL_ITEM__SPELL_PROXY_SPELL_DIMENSION_DOOR">
+				<element type="Spell" name="Dimension Door" id="ID_PHB_SPELL_DIMENSION_DOOR" />
+			</element>
 		</elements>
 		<defenses>
-			<conditional>Die Chain Shirt ist aus Mithral</conditional>
+			<conditional>Die Chain Shirt ist aus Mithral
+
+Effekt durch den Pakt mit dem Sturmgeist:
+- Ich bin mit dem Sturmgeist verbunden
+- 1x pro Long Rest Resistenz gegen Blitz und Doner für 1 Minute
+- Ich kann den Sturmgeist rufen</conditional>
 		</defenses>
 		<companion name="">
 			<attributes>
@@ -570,22 +590,6 @@ How to obtain hp for the Wizard:
 					</notes>
 				</details>
 			</item>
-			<item identifier="4e51ffff-f5bf-43b6-a844-b822f5d45c9b" name="Spell Scroll, Tongues" id="ID_INTERNAL_MAGIC_ITEM_SPELL_SCROLL_TONGUES">
-				<details card="true">
-					<name>
-					</name>
-					<notes>
-					</notes>
-				</details>
-			</item>
-			<item identifier="41a39239-73ec-429e-85ec-3015df1b176e" name="Potion of Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_HEALING">
-				<details card="true">
-					<name>
-					</name>
-					<notes>
-					</notes>
-				</details>
-			</item>
 			<item identifier="2ecc26eb-e4dd-4e09-bf47-0be301a16537" name="Additional Spell, Sending" id="ID_PHB_INTERNAL_ITEM__SPELL_PROXY_SPELL_SENDING" hidden="true">
 				<equipped>true</equipped>
 				<details card="true">
@@ -595,8 +599,52 @@ How to obtain hp for the Wizard:
 					</notes>
 				</details>
 			</item>
+			<item identifier="5353c006-ae9e-4b30-b25e-9c604af6d297" name="Potion of Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_HEALING" amount="4">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="8c8f4f99-06f9-411c-a562-0015c201d795" name="Additional Spell, Fly" id="ID_PHB_INTERNAL_ITEM__SPELL_PROXY_SPELL_FLY" hidden="true">
+				<equipped>true</equipped>
+				<details card="false">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="a27eef05-1daf-4f09-ad17-fa24fcf227f0" name="Additional Spell, Greater Invisibility" id="ID_PHB_INTERNAL_ITEM__SPELL_PROXY_SPELL_GREATER_INVISIBILITY" hidden="true">
+				<equipped>true</equipped>
+				<details card="false">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="f5a276be-3680-4584-9ef7-e6e3c10e2447" name="Additional Language, Elvish" id="ID_PHB_INTERNAL_ITEM_LANGUAGE_PROXY_LANGUAGE_ELVISH" hidden="true">
+				<equipped>true</equipped>
+				<details card="false">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="4d42c87b-a6c9-4a2e-aec2-8556d80b9cce" name="Additional Spell, Dimension Door" id="ID_PHB_INTERNAL_ITEM__SPELL_PROXY_SPELL_DIMENSION_DOOR" hidden="true">
+				<equipped>true</equipped>
+				<details card="false">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
 		</equipment>
-		<sum element-count="113">
+		<sum element-count="126">
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING" />
 			<element type="Grants" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
@@ -682,13 +730,25 @@ How to obtain hp for the Wizard:
 			<element type="Item" id="ID_PHB_INTERNAL_ITEM__SPELL_PROXY_SPELL_IDENTIFY" />
 			<element type="Spell" id="ID_PHB_SPELL_IDENTIFY" />
 			<element type="Weapon" id="ID_WOTC_PHB_WEAPON_DAGGER" />
-			<element type="Armor" id="ID_WOTC_ARMOR_MEDIUM_CHAIN_SHIRT" />
-			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_ARMOR_1" />
 			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_BOOTS_OF_STRIDING_AND_SPRINGING" />
-			<element type="Weapon" id="ID_WOTC_PHB_WEAPON_QUARTERSTAFF" />
-			<element type="Magic Item" id="ID_WOTC_LMOP_MAGIC_ITEM_STAFF_OF_DEFENSE" />
 			<element type="Item" id="ID_PHB_INTERNAL_ITEM__SPELL_PROXY_SPELL_SENDING" />
 			<element type="Spell" id="ID_PHB_SPELL_SENDING" />
+			<element type="Level" id="ID_LEVEL_10" />
+			<element type="Spell" id="ID_PHB_SPELL_MESSAGE" />
+			<element type="Spell" id="ID_PHB_SPELL_TELEKINESIS" />
+			<element type="Item" id="ID_PHB_INTERNAL_ITEM__SPELL_PROXY_SPELL_FLY" />
+			<element type="Spell" id="ID_PHB_SPELL_FLY" />
+			<element type="Item" id="ID_PHB_INTERNAL_ITEM__SPELL_PROXY_SPELL_GREATER_INVISIBILITY" />
+			<element type="Spell" id="ID_PHB_SPELL_GREATER_INVISIBILITY" />
+			<element type="Spell" id="ID_PHB_SPELL_ARCANE_EYE" />
+			<element type="Item" id="ID_PHB_INTERNAL_ITEM_LANGUAGE_PROXY_LANGUAGE_ELVISH" />
+			<element type="Language" id="ID_LANGUAGE_ELVISH" />
+			<element type="Armor" id="ID_WOTC_ARMOR_MEDIUM_CHAIN_SHIRT" />
+			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_ARMOR_1" />
+			<element type="Weapon" id="ID_WOTC_PHB_WEAPON_QUARTERSTAFF" />
+			<element type="Magic Item" id="ID_WOTC_LMOP_MAGIC_ITEM_STAFF_OF_DEFENSE" />
+			<element type="Item" id="ID_PHB_INTERNAL_ITEM__SPELL_PROXY_SPELL_DIMENSION_DOOR" />
+			<element type="Spell" id="ID_PHB_SPELL_DIMENSION_DOOR" />
 			<element type="Class" id="ID_WOTC_PHB_CLASS_WIZARD" />
 			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_DAGGER" />
 			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_DART" />
@@ -708,15 +768,17 @@ How to obtain hp for the Wizard:
 			<element type="Archetype Feature" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_WIZARD_DIVINATION_DIVINATION_SAVANT" />
 			<element type="Archetype Feature" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_WIZARD_DIVINATION_PORTENT" />
 			<element type="Archetype Feature" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_WIZARD_DIVINATION_EXPERT_DIVINATION" />
+			<element type="Archetype Feature" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_WIZARD_DIVINATION_THE_THIRD_EYE" />
 			<element type="Class Feature" id="ID_INTERNAL_CLASS_FEATURE_FEAT_4_WIZARD" />
 			<element type="Class Feature" id="ID_INTERNAL_CLASS_FEATURE_FEAT_8_WIZARD" />
 		</sum>
 		<magic>
 			<spellcasting name="Wizard" ability="Intelligence" attack="8" dc="16" source="ID_WOTC_PHB_CLASS_FEATURE_WIZARD_SPELLCASTING_WIZARD">
-				<slots s1="4" s2="3" s3="3" s4="3" s5="1" s6="0" s7="0" s8="0" s9="0" />
+				<slots s1="4" s2="3" s3="3" s4="3" s5="2" s6="0" s7="0" s8="0" s9="0" />
 				<cantrips>
 					<spell name="Chill Touch" level="0" id="ID_PHB_SPELL_CHILL_TOUCH" />
 					<spell name="Mage Hand" level="0" id="ID_PHB_SPELL_MAGE_HAND" />
+					<spell name="Message" level="0" id="ID_PHB_SPELL_MESSAGE" />
 					<spell name="Prestidigitation" level="0" id="ID_PHB_SPELL_PRESTIDIGITATION" />
 					<spell name="Toll the Dead" level="0" id="ID_XGTE_SPELL_TOLL_THE_DEAD" />
 				</cantrips>
@@ -729,9 +791,10 @@ How to obtain hp for the Wizard:
 					<spell name="Counterspell" level="3" id="ID_PHB_SPELL_COUNTERSPELL" prepared="true" always-prepared="true" known="true" />
 					<spell name="Fireball" level="3" id="ID_PHB_SPELL_FIREBALL" prepared="true" always-prepared="true" known="true" />
 					<spell name="Hypnotic Pattern" level="3" id="ID_PHB_SPELL_HYPNOTIC_PATTERN" prepared="true" always-prepared="true" known="true" />
-					<spell name="Major Image" level="3" id="ID_PHB_SPELL_MAJOR_IMAGE" prepared="true" always-prepared="true" known="true" />
+					<spell name="Arcane Eye" level="4" id="ID_PHB_SPELL_ARCANE_EYE" prepared="true" always-prepared="true" known="true" />
 					<spell name="Banishment" level="4" id="ID_PHB_SPELL_BANISHMENT" prepared="true" always-prepared="true" known="true" />
 					<spell name="Polymorph" level="4" id="ID_PHB_SPELL_POLYMORPH" prepared="true" always-prepared="true" known="true" />
+					<spell name="Telekinesis" level="5" id="ID_PHB_SPELL_TELEKINESIS" prepared="true" always-prepared="true" known="true" />
 					<spell name="Wall of Force" level="5" id="ID_PHB_SPELL_WALL_OF_FORCE" prepared="true" always-prepared="true" known="true" />
 					<spell name="Disguise Self" level="1" id="ID_PHB_SPELL_DISGUISE_SELF" always-prepared="true" known="true" />
 					<spell name="Ice Knife" level="1" id="ID_XGTE_SPELL_ICE_KNIFE" always-prepared="true" known="true" />
@@ -740,6 +803,7 @@ How to obtain hp for the Wizard:
 					<spell name="Shield" level="1" id="ID_PHB_SPELL_SHIELD" always-prepared="true" known="true" />
 					<spell name="Cloud of Daggers" level="2" id="ID_PHB_SPELL_CLOUD_OF_DAGGERS" always-prepared="true" known="true" />
 					<spell name="Dragon’s Breath" level="2" id="ID_XGTE_SPELL_DRAGONS_BREATH" always-prepared="true" known="true" />
+					<spell name="Major Image" level="3" id="ID_PHB_SPELL_MAJOR_IMAGE" always-prepared="true" known="true" />
 					<spell name="Phantasmal Killer" level="4" id="ID_PHB_SPELL_PHANTASMAL_KILLER" always-prepared="true" known="true" />
 					<spell name="Sickening Radiance" level="4" id="ID_XGTE_SPELL_SICKENING_RADIANCE" always-prepared="true" known="true" />
 					<spell name="Animate Objects" level="5" id="ID_PHB_SPELL_ANIMATE_OBJECTS" always-prepared="true" known="true" />
@@ -748,6 +812,9 @@ How to obtain hp for the Wizard:
 			<additional>
 				<spell name="Identify" level="1" id="ID_PHB_SPELL_IDENTIFY" source="Additional Spell, Identify" />
 				<spell name="Sending" level="3" id="ID_PHB_SPELL_SENDING" source="Additional Spell, Sending" />
+				<spell name="Fly" level="3" id="ID_PHB_SPELL_FLY" source="Additional Spell, Fly" />
+				<spell name="Greater Invisibility" level="4" id="ID_PHB_SPELL_GREATER_INVISIBILITY" source="Additional Spell, Greater Invisibility" />
+				<spell name="Dimension Door" level="4" id="ID_PHB_SPELL_DIMENSION_DOOR" source="Additional Spell, Dimension Door" />
 			</additional>
 		</magic>
 	</build>
