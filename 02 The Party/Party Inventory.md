@@ -10,7 +10,7 @@
 ## Gemeinschaftskonto
 | Copper | Silver | Electron | Gold  | Platin |
 | ------ | ------ | -------- | ----- | ------ |
-| 2      | 317    | 20       | 4450  | 0      |
+| 2      | 317    | 20       | 4150  | 0      |
 | 10->S  | 10->G  | 5->G     | 10->P |        |
 
 ---
