@@ -1,3 +1,12 @@
+---
+tags:
+  - item
+  - item/common
+  - spellbook
+---
+- Befindet sich in [[Vondal Holderhek|Vondal]]s Inventar
+
+Enthält folgende Spells:
 
 | Level | Spell                | Transcribed |
 | ----- | -------------------- | ----------- |

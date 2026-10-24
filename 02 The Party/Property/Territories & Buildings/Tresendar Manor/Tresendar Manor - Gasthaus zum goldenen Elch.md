@@ -3,6 +3,7 @@ tags:
 aliases:
   - Tresendar Manor
   - Gasthaus zum goldenen Elch
+  - Taverne
 ---
 Ort: [[Phandalin]]
 # Gebäude
