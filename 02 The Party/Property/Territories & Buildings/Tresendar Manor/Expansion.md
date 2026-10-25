@@ -61,11 +61,11 @@ Required Renovations and Services
 
 ### Membership in the Fellowship of Innkeepers
 - Cost: 2 gp per tenday
-- Benefit: If you intend to operate Tresendar Manor as a tavern or inn, this covers membership for the entire party and keeps you on the good side of the guilds of [[Phandalin]].
+- Benefit: If you intend to operate Tresendar Manor as a tavern or inn, this covers membership for the entire party and keeps you on the good side of the guilds of [[03 The World/Cities/Phandalin/Phandalin]].
 
 ### Additional Guild Memberships
 - Cost: 2 gp per tenday
-- Benefit: Covers membership for the entire party in an additional guild that governs a business or trade you may be engaged in, such as the Vintners’, Distillers’, and Brewers’ Guild, Council of Musicians, Instrument-makers, and Choristers, Watchful Order of Magists and Protectors, Surveyors’, Map-, and Chart-makers’ Guild, or Most Careful Order of Skilled Smiths and Metalforgers. See the “[[Phandalin]]: Dragon Heist, Character Creation” document on the Character Creation page for an expanded list of guilds. This can be taken once for each additional guild.
+- Benefit: Covers membership for the entire party in an additional guild that governs a business or trade you may be engaged in, such as the Vintners’, Distillers’, and Brewers’ Guild, Council of Musicians, Instrument-makers, and Choristers, Watchful Order of Magists and Protectors, Surveyors’, Map-, and Chart-makers’ Guild, or Most Careful Order of Skilled Smiths and Metalforgers. See the “[[03 The World/Cities/Phandalin/Phandalin]]: Dragon Heist, Character Creation” document on the Character Creation page for an expanded list of guilds. This can be taken once for each additional guild.
 
 ---
 ## Manor Services and Upgrades
@@ -98,7 +98,7 @@ Required Renovations and Services
 - Benefit: Should any thief make it to the vault, bypassing the lock is a DC (18/23/30) task. Regardless of the physical space it occupies, the interior space of the vault is (50/500/5,000) cubic feet. There is your choice of (0/0/1) deadly trap and (0/1/2) dangerous traps and (1/2/3) setback traps (Dungeon Master’s Guide, page 121) rigged to the vault. The door (is not/is not/is) protected by a magical passphrase.
 
 ### Security Enhancements
-- Although [[Phandalin]]’s streets are generally fairly safe, bad things do happen: monsters come out of the sewers, magic goes awry, or a new gang decides to offer their “protection.” Reinforced shutters and doors protect the structure from outside threats.
+- Although [[03 The World/Cities/Phandalin/Phandalin]]’s streets are generally fairly safe, bad things do happen: monsters come out of the sewers, magic goes awry, or a new gang decides to offer their “protection.” Reinforced shutters and doors protect the structure from outside threats.
 - Cost: 200 gp, 2 days
 - Benefit: Defenders receive heavy cover against attackers outside the building during an assault and windows and doors are more difficult to break.
 
@@ -141,7 +141,7 @@ Required Renovations and Services
 - A word here, a smile there, and a lot of greased palms, and suddenly that member of a guild or faction becomes your tavern’s regular—and you know what the guilds or the faction wants and what they fear. This knowledge helps you leverage better deals.
 - Prerequisite: Local Informants, Basic Tavern Staff
 - Cost: 20 gp per tenday (less if you have sufficient renown with the organization chosen or an opposing one), 7 days
-- Benefit: Choose either the guilds or one specific faction of [[Phandalin]]. You gain advantage when negotiating deals with members of that organization or when recalling details of its history. Can be taken more than once, with a different organization each time.
+- Benefit: Choose either the guilds or one specific faction of [[03 The World/Cities/Phandalin/Phandalin]]. You gain advantage when negotiating deals with members of that organization or when recalling details of its history. Can be taken more than once, with a different organization each time.
 
 ### Spy Network
 - You have people embedded in an organization that constantly feed you information and can enact your whims to steer the course of the leadership’s actions.

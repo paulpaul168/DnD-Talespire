@@ -10,11 +10,11 @@ tags:
 Söldnertruppe
 
 **Headquarters**
-Ansässig in der [[Tresendar Manor - Gasthaus zum goldenen Elch]] in [[Phandalin]]
+Ansässig in der [[Tresendar Manor - Gasthaus zum goldenen Elch]] in [[03 The World/Cities/Phandalin/Phandalin]]
 Lokaler Einfluss
 
 **Goals & Motivations**
-Unruhe stiften im Auftrag der Schwarzen Spinne in [[Phandalin]]
+Unruhe stiften im Auftrag der Schwarzen Spinne in [[03 The World/Cities/Phandalin/Phandalin]]
 
 **Known Members**
 - [[Iarno]] ist der Anführer

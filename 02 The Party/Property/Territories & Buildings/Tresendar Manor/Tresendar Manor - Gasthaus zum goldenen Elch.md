@@ -5,7 +5,7 @@ aliases:
   - Gasthaus zum goldenen Elch
   - Taverne
 ---
-Ort: [[Phandalin]]
+Ort: [[03 The World/Cities/Phandalin/Phandalin]]
 # Gebäude
 
 

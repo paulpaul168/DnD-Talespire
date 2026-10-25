@@ -2,4 +2,7 @@
 tags:
   - city
 ---
-Ein kleines Dorf mit einer alten zerfallenen Villa -[Tresendar Manor](Tresendar%20Villa.md)- wo sich die Gruppe niedergelassen hat. Geleitet wird das Dorf vom Rat der Adeligen und Reichen.
+- Ein kleines Dorf
+- Beherbergt die [[Tresendar Manor - Gasthaus zum goldenen Elch|Taverne]]
+- Das Dorf wird vom Rat der Adligen und Reichen geleitet
+- Durch die [[Tresendar Manor - Gasthaus zum goldenen Elch|Taverne]] wird das Dorf allmählich wohlhabender und bedeutender

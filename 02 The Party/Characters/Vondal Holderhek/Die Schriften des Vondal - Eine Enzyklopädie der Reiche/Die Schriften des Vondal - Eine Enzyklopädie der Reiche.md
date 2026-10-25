@@ -180,7 +180,12 @@ Wenn Snarl hilft, dann ist es aus Kalkül. Dass andere Drachen ihn verachten ist
 - Hat Interesse an [Glyph of Warding](https://www.dndbeyond.com/spells/2125-glyph-of-warding)
 - Er ist kein Gelehrter im klassischen Sinn. Er war ein Wagenbauer, Runenschmied und Magier, der Wissen lieber baute, als es aufzuschreiben
 - Sein Name taucht im Zusammenhang mit Konstrukten, die nicht hätten funktionieren dürfen – es aber taten
-
+###  Halia Thornton
+- Ist vor der Berarbeiterbörse in [[03 The World/Cities/Phandalin/Phandalin|Phandalin]]
+### Linene Graywind
+- Sie betreibt einen Lionshield Coster Handelsposten in [[Phandalin]]
+### Harbin Wester
+- Bürgermeister in [[Phandalin]]
 ## Ereignisse
 
 ## Mythen

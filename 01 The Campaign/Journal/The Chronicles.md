@@ -1,5 +1,5 @@
 **Tag 110: Die Ankunft von [[Simus]]** 
-**Überblick:** Die Gruppe traf in [[Phandalin]] auf [[Simus]].
+**Überblick:** Die Gruppe traf in [[03 The World/Cities/Phandalin/Phandalin]] auf [[Simus]].
 
 **Tag 133: Angriff auf [[Dreiebersdorf]]**
 **Überblick:** [[Dreiebersdorf]] wird angegriffen.
