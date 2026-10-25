@@ -1,6 +1,4 @@
 # Das Arkanum: Magie und Zauberkunde
-
-
 # Das Bestiarium: Kreaturen und Monster
 ## Giant
 ### [[Hill Giant]]

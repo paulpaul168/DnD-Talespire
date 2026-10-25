@@ -10,7 +10,7 @@
 ## Gemeinschaftskonto
 | Copper | Silver | Electron | Gold  | Platin |
 | ------ | ------ | -------- | ----- | ------ |
-| 2      | 317    | 20       | 4150  | 0      |
+| 2      | 317    | 20       | 4050  | 0      |
 | 10->S  | 10->G  | 5->G     | 10->P |        |
 
 ---
@@ -60,9 +60,18 @@
 - 1x Schwere Pergamentrolle: Ritual der Blutmondverwandlung (schwarze Magie) (à 5000 GP)
 - 10x Edelsteine (à 10 GP)
 - 1x Ziegenhornpaar (à 10 GP)
-- 7x Beutel mit Edelsteinen (à 100 GP)
 - 1x Kopf vom Chief vom Great Worm Tribe
+- 1x Granat Edelstein (5 GP)
+- 1x seltene Arkanekomponenten (800 GP)
+- 1x verschlossene Metallkassette
 
+---
+## Gemstones
+- 1x Metallkassette mit Diamantstaub (300 GP)
+- 5x Saphire (à 100 GP)
+- 7x Beutel mit Edelsteinen (à 100 GP)
+- 6x geschliffene Aquamarine (à 100 GP)
+- 7x Edelsteine (à 50 GP)
 ---
 
 ## Zutaten

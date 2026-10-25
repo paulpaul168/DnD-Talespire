@@ -8,32 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4caea3bf6e8eb7c3",
+            "id": "258212d912aef90f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 The Party/Characters/Vondal Holderhek/Downtime/Phandalin Downtime.md",
+                "file": "01 The Campaign/Journal/2026/260927.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phandalin Downtime"
+              "title": "260927"
             }
           },
           {
-            "id": "73f400f609ed6d40",
+            "id": "c0cf574fe1fb6238",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "02 The Party/Character Sheets/vondal holderhek.pdf"
+                "file": "01 The Campaign/Journal/2026/261025.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "vondal holderhek"
+              "icon": "lucide-file",
+              "title": "261025"
+            }
+          },
+          {
+            "id": "1416777781dc146b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 The Campaign/Journal/2026/260815.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "260815"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -58,7 +75,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Dateiexplorer"
             }
           },
           {
@@ -67,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"02 The Party/Characters/Vondal Holderhek/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +92,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Suchen"
             }
           },
           {
@@ -169,29 +186,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false
     }
   },
-  "active": "4caea3bf6e8eb7c3",
+  "active": "c0cf574fe1fb6238",
   "lastOpenFiles": [
-    "02 The Party/Character Sheets/vondal holderhek.pdf",
+    "01 The Campaign/Journal/2026/260927.md",
+    "01 The Campaign/Journal/2026/261025.md",
+    "01 The Campaign/Journal/2026/260815.md",
+    "01 The Campaign/Journal/2026/260628.md",
     "02 The Party/Characters/Vondal Holderhek/Downtime/Phandalin Downtime.md",
+    "02 The Party/Party Inventory.md",
+    "02 The Party/Characters/Vondal Holderhek/Inventory/Enduring Spellbook.md",
+    "02 The Party/Characters/Vondal Holderhek/Inventory/Spell Book 1.md",
+    "02 The Party/Characters/Vondal Holderhek/Die Schriften des Vondal - Eine Enzyklopädie der Reiche/Die Schriften des Vondal - Eine Enzyklopädie der Reiche.md",
+    "03 The World/Cities/Phandalin/Phandalin.md",
+    "02 The Party/Character Sheets/vondal holderhek.pdf",
     "02 The Party/Characters/Vondal Holderhek/Character Documents/Vondal Holderhek Backstory.pdf",
     "02 The Party/Characters/Vondal Holderhek/Character Documents/Vondal Holderhek Weiterentwicklung (Teil 1).pdf",
-    "02 The Party/Characters/Vondal Holderhek/Die Schriften des Vondal - Eine Enzyklopädie der Reiche/Die Schriften des Vondal - Eine Enzyklopädie der Reiche.md",
-    "01 The Campaign/Journal/2026/261025.md",
     "02 The Party/Characters/Vondal Holderhek/Downtime",
-    "01 The Campaign/Journal/2026/260927.md",
     "03 The World/Cities/Phandalin/Images/Nahansicht.png",
     "03 The World/Cities/Phandalin/Images/Nahansicht 1.png",
     "03 The World/Cities/Phandalin/Images/Weltansicht.png",
-    "03 The World/Cities/Phandalin/Phandalin.md",
     "README.md",
     "Tresendar Villa.md",
     "02 The Party/Companions/Astrax/Astrax.md",
@@ -204,12 +226,9 @@
     "02 The Party/Characters/Simus/Simus.md",
     "02 The Party/Characters/Sindrir Gerrick/Sindrir Gerrick.md",
     "02 The Party/Characters/Spieler.md",
-    "02 The Party/Characters/Vondal Holderhek/Inventory/Spell Book 1.md",
-    "02 The Party/Characters/Vondal Holderhek/Inventory/Enduring Spellbook.md",
     "02 The Party/Characters/Vondal Holderhek/Inventory/Spell Book 2.md",
     "03 The World/Location/Research Station Talaris.md",
     "03 The World/Location/Fortress/Citadel Adbar.md",
-    "02 The Party/Party Inventory.md",
     "03 The World/NPCs/Named NPCs/Riesen/Prinzessin Srissa.md",
     "03 The World/Location/Temple/Temple of Moradin.md",
     "03 The World/Location/Temple/Eye of the All-father.md",
@@ -218,7 +237,6 @@
     "03 The World/Weltkarte.jpg",
     "03 The World/Cities/Neverwinter/Neverwinter.md",
     "03 The World/NPCs/Named NPCs/Sandyse Thunderquill.md",
-    "02 The Party/Property/Territories & Buildings/Tresendar Manor/Tresendar Manor - Gasthaus zum goldenen Elch.md",
     "02 The Party/Property/Vehicles/Segelboot",
     "02 The Party/Characters/Vondal Holderhek/Runenhort Waxsiegel.jpg",
     "02 The Party/Characters/Vondal Holderhek/Die Schriften des Vondal - Eine Enzyklopädie der Reiche/Karten/Yartar.jpg",
